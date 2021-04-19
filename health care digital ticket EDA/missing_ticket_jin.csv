@@ -1,0 +1,1345 @@
+,Delivered Date,Facility Name,Facility Type,Item Description,Product Source,Type,Units,QTY Per UOM,Total Amount,Cheat Sheet
+34,2020-03-23 00:00:00,Chandler Fire Department,EMS,Stat paq,AZ/MasCache,Stat Paq,5.0,1.0,5,Good
+35,2020-03-23 00:00:00,Chandler Fire Department,EMS,N-95 Respirators [HM5210],AZ/MasCache,N95,8.0,1.0,8,Good
+108,2020-03-23 00:00:00,Parkland Memory Care,LTCF,Surgical Masks [48100],Maricopa,Surgical Masks,2.0,50.0,100,Good
+116,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,70.0,50.0,3500,Good
+122,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,1.0,1.0,1,Good
+123,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+124,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+125,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+126,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Impermeable coverall without integrated hood, 3X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+127,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,13.0,30.0,390,Good
+128,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,12.0,30.0,360,Good
+129,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,19.0,18.0,342,Good
+131,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,7.0,100.0,700,Good
+134,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,4.0,100.0,400,Good
+136,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gloves, non-latex (VINYL), Small",SNS,Gloves,6.0,100.0,600,Good
+137,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,3.0,100.0,300,Good
+140,2020-03-25 00:00:00,Abrazo Health,Acute Care,N95 Duck Bill Small,SNS,N95,1.0,35.0,35,Good
+141,2020-03-25 00:00:00,Abrazo Health,Acute Care,N95 Duck Bill Reg,SNS,N95,1.0,35.0,35,Good
+145,2020-03-25 00:00:00,Abrazo Health,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,95.0,30.0,2850,Good
+153,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+161,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+164,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+165,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+166,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+167,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+168,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+169,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+170,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+171,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+172,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+173,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, non-latex (VINYL), Small",SNS,Gloves,1.0,100.0,100,Good
+174,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+175,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+176,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Face Shield, Full Foam Top",SNS,Face Shield,6.0,24.0,144,Good
+182,2020-03-25 00:00:00,AZ State Hospital,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,10.0,30.0,300,Good
+190,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,272.0,50.0,13600,Good
+196,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,3.0,1.0,3,Good
+197,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,8.0,1.0,8,Good
+198,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,8.0,1.0,8,Good
+199,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,4.0,1.0,4,Good
+200,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Impermeable coverall without integrated hood, 3X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+201,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,45.0,30.0,1350,Good
+202,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,48.0,30.0,1440,Good
+203,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,80.0,18.0,1440,Good
+204,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,25.0,100.0,2500,Good
+205,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,29.0,100.0,2900,Good
+206,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gloves, (LATEX), Large",SNS,Gloves,38.0,100.0,3800,Good
+208,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,14.0,100.0,1400,Good
+211,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,12.0,100.0,1200,Good
+212,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,36.0,100.0,3600,Good
+213,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Face Shield, Full Foam Top",SNS,Face Shield,217.0,24.0,5208,Good
+214,2020-03-25 00:00:00,Banner Hospital,Acute Care,N95 Duck Bill Small,SNS,N95,1.0,35.0,35,Good
+215,2020-03-25 00:00:00,Banner Hospital,Acute Care,N95 Duck Bill Reg,SNS,N95,1.0,35.0,35,Good
+219,2020-03-25 00:00:00,Banner Hospital,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,371.0,30.0,11130,Good
+227,2020-03-25 00:00:00,Dignity Health,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,105.0,50.0,5250,Good
+233,2020-03-25 00:00:00,Dignity Health,Acute Care,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,1.0,1.0,1,Good
+234,2020-03-25 00:00:00,Dignity Health,Acute Care,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,3.0,1.0,3,Good
+236,2020-03-25 00:00:00,Dignity Health,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+237,2020-03-25 00:00:00,Dignity Health,Acute Care,"Impermeable coverall without integrated hood, 3X-Large",SNS,Alt. Gowns,3.0,1.0,3,Good
+238,2020-03-25 00:00:00,Dignity Health,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,18.0,30.0,540,Good
+239,2020-03-25 00:00:00,Dignity Health,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,19.0,30.0,570,Good
+240,2020-03-25 00:00:00,Dignity Health,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,29.0,18.0,522,Good
+241,2020-03-25 00:00:00,Dignity Health,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,9.0,100.0,900,Good
+251,2020-03-25 00:00:00,Dignity Health,Acute Care,N95 Duck Bill Small,SNS,N95,1.0,35.0,35,Good
+252,2020-03-25 00:00:00,Dignity Health,Acute Care,N95 Duck Bill Reg,SNS,N95,1.0,35.0,35,Good
+256,2020-03-25 00:00:00,Dignity Health,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,143.0,30.0,4290,Good
+264,2020-03-25 00:00:00,Honor Health,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,126.0,50.0,6300,Good
+270,2020-03-25 00:00:00,Honor Health,Acute Care,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,1.0,1.0,1,Good
+271,2020-03-25 00:00:00,Honor Health,Acute Care,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,4.0,1.0,4,Good
+272,2020-03-25 00:00:00,Honor Health,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,4.0,1.0,4,Good
+273,2020-03-25 00:00:00,Honor Health,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,2.0,1.0,2,Good
+275,2020-03-25 00:00:00,Honor Health,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,21.0,30.0,630,Good
+276,2020-03-25 00:00:00,Honor Health,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,22.0,30.0,660,Good
+277,2020-03-25 00:00:00,Honor Health,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,35.0,18.0,630,Good
+278,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,10.0,100.0,1000,Good
+279,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,13.0,100.0,1300,Good
+280,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, (LATEX), Large",SNS,Gloves,18.0,100.0,1800,Good
+282,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,6.0,100.0,600,Good
+283,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, (NITRILE), Large",SNS,Gloves,11.0,100.0,1100,Good
+285,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,6.0,100.0,600,Good
+286,2020-03-25 00:00:00,Honor Health,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,6.0,100.0,600,Good
+287,2020-03-25 00:00:00,Honor Health,Acute Care,"Face Shield, Full Foam Top",SNS,Face Shield,100.0,24.0,2400,Good
+288,2020-03-25 00:00:00,Honor Health,Acute Care,N95 Duck Bill Small,SNS,N95,1.0,35.0,35,Good
+289,2020-03-25 00:00:00,Honor Health,Acute Care,N95 Duck Bill Reg,SNS,N95,1.0,35.0,35,Good
+293,2020-03-25 00:00:00,Honor Health,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,171.0,30.0,5130,Good
+301,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,35.0,50.0,1750,Good
+308,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+309,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+310,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+312,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,6.0,30.0,180,Good
+313,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,6.0,30.0,180,Good
+314,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,10.0,18.0,180,Good
+315,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+316,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+317,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, (LATEX), Large",SNS,Gloves,5.0,100.0,500,Good
+319,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+320,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, (NITRILE), Large",SNS,Gloves,3.0,100.0,300,Good
+322,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+323,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+324,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Face Shield, Full Foam Top",SNS,Face Shield,28.0,24.0,672,Good
+330,2020-03-25 00:00:00,Mayo Hospital ,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,48.0,30.0,1440,Good
+338,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,14.0,50.0,700,Good
+346,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+349,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+350,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,3.0,30.0,90,Good
+351,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+352,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,100.0,100.0,10000,Good
+353,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+354,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+356,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+357,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+359,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+360,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+361,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Face Shield, Full Foam Top",SNS,Face Shield,12.0,24.0,288,Good
+367,2020-03-25 00:00:00,Phoenix Childrens Hospital,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,19.0,30.0,570,Good
+375,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,21.0,50.0,1050,Good
+383,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+384,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+386,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+387,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,4.0,30.0,120,Good
+388,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,6.0,18.0,108,Good
+389,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+390,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+391,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+393,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+394,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+396,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+397,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+404,2020-03-25 00:00:00,Stewart Hospital,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,29.0,30.0,870,Good
+412,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,35.0,50.0,1750,Good
+420,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+421,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+422,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Impermeable coverall without integrated hood, 3X-Large",SNS,Alt. Gowns,1.0,1.0,1,Good
+423,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,6.0,30.0,180,Good
+424,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,6.0,30.0,180,Good
+425,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,10.0,18.0,180,Good
+426,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+427,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+430,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+433,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+434,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+435,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Face Shield, Full Foam Top",SNS,Face Shield,28.0,24.0,672,Good
+441,2020-03-25 00:00:00,Valleywise Hospital,Acute Care,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,48.0,30.0,1440,Good
+449,2020-03-27 00:00:00,Allegiant,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+461,2020-03-27 00:00:00,Allegiant,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,4.0,30.0,120,Good
+472,2020-03-27 00:00:00,Allegiant,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,6.0,24.0,144,Good
+478,2020-03-27 00:00:00,Allegiant,LTCF,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,10.0,30.0,300,Good
+515,2020-03-27 00:00:00,Correctional Health,County,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,19.0,30.0,570,no delivered ticket
+523,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,105.0,50.0,5250,Good
+534,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gown, Surgical, Sterile, Large",SNS,Gowns,3.0,30.0,90,Good
+535,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gown, Surgical, Sterile, XL",SNS,Gowns,3.0,30.0,90,Good
+536,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+538,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+539,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+541,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+542,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+544,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+545,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+552,2020-03-27 00:00:00,Esign Alta Hospital,LCTF,"Mask, N95 Particulate Respirator/Surgical, med/lg, NIOSH, 8210 ",SNS,N95,19.0,30.0,570,Good
+560,2020-03-27 00:00:00,MCDHS,County,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,Surgical Masks,8.0,50.0,400,Good
+671,2020-03-27 00:00:00,The Groves,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,12.0,50.0,600,Good
+675,2020-03-27 00:00:00,The Groves,LTCF,"Masks, N95, Small",Maricopa,N95,30.0,20.0,600,Good
+689,2020-03-27 00:00:00,The Groves,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+690,2020-03-27 00:00:00,The Groves,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+712,2020-03-27 00:00:00,Vitalant Blood,FQHC,"Masks, N95, Small",Maricopa,N95,24.0,20.0,480,Good
+725,2020-03-27 00:00:00,Vitalant Blood,FQHC,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+726,2020-03-27 00:00:00,Vitalant Blood,FQHC,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+727,2020-03-27 00:00:00,Vitalant Blood,FQHC,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+745,2020-04-06 00:00:00,Allegiant,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+749,2020-04-06 00:00:00,Allegiant,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+750,2020-04-06 00:00:00,Allegiant,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+756,2020-04-06 00:00:00,Allegiant,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+757,2020-04-06 00:00:00,Allegiant,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+758,2020-04-06 00:00:00,Allegiant,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+759,2020-04-06 00:00:00,Allegiant,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+760,2020-04-06 00:00:00,Allegiant,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+761,2020-04-06 00:00:00,Allegiant,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+762,2020-04-06 00:00:00,Allegiant,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+763,2020-04-06 00:00:00,Allegiant,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+767,2020-04-06 00:00:00,Allegiant,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+768,2020-04-06 00:00:00,Allegiant,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+782,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+786,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+787,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+793,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+794,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+795,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+796,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+797,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+798,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+799,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+800,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+804,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+805,2020-04-06 00:00:00,Mariposa Point of Mesa,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+819,2020-04-06 00:00:00,Rio Verde Fire,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+820,2020-04-06 00:00:00,Rio Verde Fire,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+824,2020-04-06 00:00:00,Rio Verde Fire,EMS,"Masks, N95, Med/Large",SNS,N95,4.0,20.0,80,Good
+830,2020-04-06 00:00:00,Rio Verde Fire,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+831,2020-04-06 00:00:00,Rio Verde Fire,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+856,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+861,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+862,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,17.0,1.0,17,Good
+867,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+868,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+869,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+870,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+871,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+872,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+873,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+874,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+878,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+879,2020-04-06 00:00:00,Village at Ocotillo,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+893,2020-04-07 00:00:00,Alice Group Home,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+897,2020-04-07 00:00:00,Alice Group Home,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+898,2020-04-07 00:00:00,Alice Group Home,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+904,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+905,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+906,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+907,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+908,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+909,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+910,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+911,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+915,2020-04-07 00:00:00,Alice Group Home,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+916,2020-04-07 00:00:00,Alice Group Home,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+930,2020-04-07 00:00:00,Avenir Memory,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+934,2020-04-07 00:00:00,Avenir Memory,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+935,2020-04-07 00:00:00,Avenir Memory,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+941,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+942,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+943,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+944,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+945,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+946,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+947,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+948,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+952,2020-04-07 00:00:00,Avenir Memory,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+953,2020-04-07 00:00:00,Avenir Memory,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+967,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+971,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+972,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+978,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+979,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+980,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+981,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+982,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+983,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+984,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+985,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+989,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+990,2020-04-07 00:00:00,Beatitudes Campus,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1004,2020-04-07 00:00:00,Christian Health,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1008,2020-04-07 00:00:00,Christian Health,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1009,2020-04-07 00:00:00,Christian Health,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1015,2020-04-07 00:00:00,Christian Health,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1016,2020-04-07 00:00:00,Christian Health,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1017,2020-04-07 00:00:00,Christian Health,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1018,2020-04-07 00:00:00,Christian Health,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1019,2020-04-07 00:00:00,Christian Health,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1020,2020-04-07 00:00:00,Christian Health,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1021,2020-04-07 00:00:00,Christian Health,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1022,2020-04-07 00:00:00,Christian Health,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1026,2020-04-07 00:00:00,Christian Health,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1027,2020-04-07 00:00:00,Christian Health,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1041,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1045,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1046,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1052,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1053,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1054,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1055,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1056,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1057,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1058,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1059,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1063,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1064,2020-04-07 00:00:00,Desert Winds Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1078,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1082,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1083,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1089,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1090,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1091,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1092,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1093,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1094,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1095,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1096,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1100,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1101,2020-04-07 00:00:00,North Chandler Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1115,2020-04-07 00:00:00,Queen Creek Fire,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+1116,2020-04-07 00:00:00,Queen Creek Fire,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+1120,2020-04-07 00:00:00,Queen Creek Fire,EMS,"Masks, N95, Med/Large",SNS,N95,4.0,20.0,80,Good
+1127,2020-04-07 00:00:00,Queen Creek Fire,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1128,2020-04-07 00:00:00,Queen Creek Fire,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1152,2020-04-07 00:00:00,Solace Hospice,LTFC,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1156,2020-04-07 00:00:00,Solace Hospice,LTFC,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1157,2020-04-07 00:00:00,Solace Hospice,LTFC,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1163,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1164,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1165,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1166,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1167,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1168,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1169,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1170,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1174,2020-04-07 00:00:00,Solace Hospice,LTFC,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1175,2020-04-07 00:00:00,Solace Hospice,LTFC,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1200,2020-04-08 00:00:00,El Mirage Fire,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,75.0,30.0,2250,no sure
+1226,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+1230,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Masks, N95, Small",SNS,N95,3.0,20.0,60,Good
+1231,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Masks, N95, Med/Large",SNS,N95,8.0,20.0,160,Good
+1237,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,7.0,30.0,210,Good
+1238,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,7.0,30.0,210,Good
+1239,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,6.0,18.0,108,Good
+1240,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+1241,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+1242,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+1243,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+1244,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+1245,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+1247,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+1248,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1249,2020-04-08 00:00:00,Lake Pleasant Rehab,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,5.0,24.0,120,Good
+1263,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1267,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1268,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1274,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1275,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1276,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1277,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1278,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1279,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1280,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1281,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1285,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1286,2020-04-08 00:00:00,Montecito Senior Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1300,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1304,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1305,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1311,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1312,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1313,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1314,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1315,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1316,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1317,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1318,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1322,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1323,2020-04-08 00:00:00,Palos Verde Senior Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1337,2020-04-08 00:00:00,The Groves,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+1341,2020-04-08 00:00:00,The Groves,LTCF,"Masks, N95, Small",SNS,N95,1.0,20.0,20,Good
+1342,2020-04-08 00:00:00,The Groves,LTCF,"Masks, N95, Med/Large",SNS,N95,17.0,20.0,340,Good
+1348,2020-04-08 00:00:00,The Groves,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1349,2020-04-08 00:00:00,The Groves,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1350,2020-04-08 00:00:00,The Groves,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1351,2020-04-08 00:00:00,The Groves,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1352,2020-04-08 00:00:00,The Groves,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+1353,2020-04-08 00:00:00,The Groves,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1354,2020-04-08 00:00:00,The Groves,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1355,2020-04-08 00:00:00,The Groves,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1359,2020-04-08 00:00:00,The Groves,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1360,2020-04-08 00:00:00,The Groves,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,7.0,24.0,168,Good
+1374,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+1378,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Masks, N95, Small",SNS,N95,2.0,20.0,40,Good
+1379,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+1385,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,6.0,30.0,180,Good
+1386,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,7.0,30.0,210,Good
+1387,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,6.0,18.0,108,Good
+1388,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+1389,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+1390,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+1391,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+1392,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1393,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+1395,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+1396,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1397,2020-04-09 00:00:00,Acoya Mesa,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+1411,2020-04-09 00:00:00,Aguila Fire District,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,36.0,50.0,1800,Good
+1422,2020-04-09 00:00:00,Aguila Fire District,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+1423,2020-04-09 00:00:00,Aguila Fire District,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1424,2020-04-09 00:00:00,Aguila Fire District,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+1425,2020-04-09 00:00:00,Aguila Fire District,EMS,"Gloves, (LATEX), Small",SNS,Gloves,10.0,100.0,1000,not sure
+1426,2020-04-09 00:00:00,Aguila Fire District,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,10.0,100.0,1000,not sure
+1427,2020-04-09 00:00:00,Aguila Fire District,EMS,"Gloves, (LATEX), Large",SNS,Gloves,10.0,100.0,1000,not sure
+1434,2020-04-09 00:00:00,Aguila Fire District,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+1448,2020-04-09 00:00:00,Correctional Health,County,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,277.0,50.0,13850,Good
+1452,2020-04-09 00:00:00,Correctional Health,County,"Masks, N95, Small",SNS,N95,4.0,20.0,80,Good
+1453,2020-04-09 00:00:00,Correctional Health,County,"Masks, N95, Med/Large",SNS,N95,68.0,20.0,1360,Good
+1459,2020-04-09 00:00:00,Correctional Health,County,"Gown, Surgical, Sterile, Large",SNS,Gowns,31.0,30.0,930,Good
+1460,2020-04-09 00:00:00,Correctional Health,County,"Gown, Surgical, Sterile, XL",SNS,Gowns,35.0,30.0,1050,Good
+1461,2020-04-09 00:00:00,Correctional Health,County,"Gown, Surgical, Sterile, XXL",SNS,Gowns,21.0,18.0,378,Good
+1462,2020-04-09 00:00:00,Correctional Health,County,"Gloves, (LATEX), Small",SNS,Gloves,83.0,100.0,8300,Good
+1463,2020-04-09 00:00:00,Correctional Health,County,"Gloves, (LATEX), Medium",SNS,Gloves,84.0,100.0,8400,Good
+1464,2020-04-09 00:00:00,Correctional Health,County,"Gloves, (LATEX), Large",SNS,Gloves,50.0,100.0,5000,Good
+1465,2020-04-09 00:00:00,Correctional Health,County,"Gloves, (NITRILE), Small",SNS,Gloves,60.0,100.0,6000,Good
+1466,2020-04-09 00:00:00,Correctional Health,County,"Gloves, (NITRILE), Medium",SNS,Gloves,71.0,100.0,7100,Good
+1467,2020-04-09 00:00:00,Correctional Health,County,"Gloves, (NITRILE), Large",SNS,Gloves,70.0,100.0,7000,Good
+1469,2020-04-09 00:00:00,Correctional Health,County,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+1470,2020-04-09 00:00:00,Correctional Health,County,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1471,2020-04-09 00:00:00,Correctional Health,County,"Face Shield, Full Foam Top",SNS,Face Shield,56.0,24.0,1344,Good
+1486,2020-04-09 00:00:00,Glendale FD PD,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,10.0,30.0,300,Good
+1496,2020-04-09 00:00:00,Glendale FD PD,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+1497,2020-04-09 00:00:00,Glendale FD PD,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+1498,2020-04-09 00:00:00,Glendale FD PD,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+1508,2020-04-09 00:00:00,Glendale FD PD,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+1526,2020-04-09 00:00:00,Honor Health,Acute Care,"Masks, N95, Small",SNS,N95,5.0,20.0,100,Good
+1527,2020-04-09 00:00:00,Honor Health,Acute Care,"Masks, N95, Med/Large",SNS,N95,45.0,20.0,900,Good
+1582,2020-04-09 00:00:00,Town of Carefree,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+1596,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+1601,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Masks, N95, Med/Large",SNS,N95,13.0,20.0,260,Good
+1607,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1610,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+1611,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+1612,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+1617,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+1618,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+1619,2020-04-10 00:00:00,Aztec Health Care,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+1633,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+1638,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Masks, N95, Med/Large",SNS,N95,13.0,20.0,260,Good
+1644,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+1647,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+1648,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+1649,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+1654,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+1655,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+1656,2020-04-10 00:00:00,Courtyard Towers,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+1670,2020-04-10 00:00:00,Desert Blossom,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,52.0,50.0,2600,Good
+1675,2020-04-10 00:00:00,Desert Blossom,LTCF,"Masks, N95, Med/Large",SNS,N95,53.0,20.0,1060,Good
+1681,2020-04-10 00:00:00,Desert Blossom,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,7.0,30.0,210,Good
+1682,2020-04-10 00:00:00,Desert Blossom,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,6.0,30.0,180,Good
+1684,2020-04-10 00:00:00,Desert Blossom,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,5.0,100.0,500,Good
+1688,2020-04-10 00:00:00,Desert Blossom,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,3.0,100.0,300,Good
+1692,2020-04-10 00:00:00,Desert Blossom,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,3.0,100.0,300,Good
+1693,2020-04-10 00:00:00,Desert Blossom,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,8.0,24.0,192,Good
+1712,2020-04-10 00:00:00,Desert Sky,LTCF,"Masks, N95, Med/Large",SNS,N95,5.0,20.0,100,Good
+1718,2020-04-10 00:00:00,Desert Sky,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+1719,2020-04-10 00:00:00,Desert Sky,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,4.0,30.0,120,Good
+1730,2020-04-10 00:00:00,Desert Sky,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+1744,2020-04-10 00:00:00,Desert Winds Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,5.0,50.0,250,Good
+1748,2020-04-10 00:00:00,Desert Winds Assisted Living,LTCF,"Masks, N95, Small",SNS,N95,5.0,20.0,100,Good
+1749,2020-04-10 00:00:00,Desert Winds Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,10.0,20.0,200,Good
+1762,2020-04-10 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+1763,2020-04-10 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+1767,2020-04-10 00:00:00,Desert Winds Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+1781,2020-04-10 00:00:00,Ensign Citadel,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+1792,2020-04-10 00:00:00,Ensign Citadel,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+1793,2020-04-10 00:00:00,Ensign Citadel,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,4.0,30.0,120,Good
+1794,2020-04-10 00:00:00,Ensign Citadel,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,7.0,18.0,126,Good
+1818,2020-04-10 00:00:00,Fellowship Square,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+1824,2020-04-10 00:00:00,Fellowship Square,LTCF,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,60.0,1.0,60,Good
+1829,2020-04-10 00:00:00,Fellowship Square,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,90.0,30.0,2700,Good
+1830,2020-04-10 00:00:00,Fellowship Square,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,30.0,30.0,900,Good
+1841,2020-04-10 00:00:00,Fellowship Square,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+1855,2020-04-10 00:00:00,Glynnis Place,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+1860,2020-04-10 00:00:00,Glynnis Place,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+1867,2020-04-10 00:00:00,Glynnis Place,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+1874,2020-04-10 00:00:00,Glynnis Place,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+1878,2020-04-10 00:00:00,Glynnis Place,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+1892,2020-04-10 00:00:00,Mi Casa,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,30.0,50.0,1500,Good
+1897,2020-04-10 00:00:00,Mi Casa,LTCF,"Masks, N95, Med/Large",SNS,N95,8.0,20.0,160,Good
+1903,2020-04-10 00:00:00,Mi Casa,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,8.0,30.0,240,Good
+1904,2020-04-10 00:00:00,Mi Casa,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,8.0,30.0,240,Good
+1915,2020-04-10 00:00:00,Mi Casa,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+1929,2020-04-10 00:00:00,Mission Palms,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+1934,2020-04-10 00:00:00,Mission Palms,LTCF,"Masks, N95, Med/Large",SNS,N95,13.0,20.0,260,Good
+1940,2020-04-10 00:00:00,Mission Palms,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,30.0,30.0,900,Good
+1941,2020-04-10 00:00:00,Mission Palms,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,30.0,30.0,900,Good
+1952,2020-04-10 00:00:00,Mission Palms,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,8.0,24.0,192,Good
+1966,2020-04-10 00:00:00,Olive Grove,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+1971,2020-04-10 00:00:00,Olive Grove,LTCF,"Masks, N95, Med/Large",SNS,N95,10.0,20.0,200,Good
+1977,2020-04-10 00:00:00,Olive Grove,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+1978,2020-04-10 00:00:00,Olive Grove,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,4.0,30.0,120,Good
+1979,2020-04-10 00:00:00,Olive Grove,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,7.0,18.0,126,Good
+1980,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+1981,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+1982,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+1983,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,22.0,100.0,2200,Good
+1984,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+1985,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+1987,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+1988,2020-04-10 00:00:00,Olive Grove,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+1989,2020-04-10 00:00:00,Olive Grove,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2003,2020-04-10 00:00:00,Pennington Gardens,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,18.0,50.0,900,Good
+2008,2020-04-10 00:00:00,Pennington Gardens,LTCF,"Masks, N95, Med/Large",SNS,N95,3.0,20.0,60,Good
+2014,2020-04-10 00:00:00,Pennington Gardens,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+2015,2020-04-10 00:00:00,Pennington Gardens,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+2024,2020-04-10 00:00:00,Pennington Gardens,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+2026,2020-04-10 00:00:00,Pennington Gardens,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2040,2020-04-10 00:00:00,R and D Adult Care,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+2045,2020-04-10 00:00:00,R and D Adult Care,LTCF,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+2051,2020-04-10 00:00:00,R and D Adult Care,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2055,2020-04-10 00:00:00,R and D Adult Care,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+2063,2020-04-10 00:00:00,R and D Adult Care,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+2077,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,24.0,50.0,1200,Good
+2081,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Masks, N95, Small",SNS,N95,3.0,20.0,60,Good
+2082,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Masks, N95, Med/Large",SNS,N95,31.0,20.0,620,Good
+2088,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,25.0,30.0,750,Good
+2089,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,25.0,30.0,750,Good
+2090,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,10.0,18.0,180,Good
+2091,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+2092,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+2093,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+2094,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+2095,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+2096,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+2098,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+2099,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+2100,2020-04-10 00:00:00,Scottsdale Village,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,13.0,24.0,312,Good
+2114,2020-04-10 00:00:00,Wellspring,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,15.0,50.0,750,Good
+2119,2020-04-10 00:00:00,Wellspring,LTCF,"Masks, N95, Med/Large",SNS,N95,12.0,20.0,240,Good
+2125,2020-04-10 00:00:00,Wellspring,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+2126,2020-04-10 00:00:00,Wellspring,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+2129,2020-04-10 00:00:00,Wellspring,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+2137,2020-04-10 00:00:00,Wellspring,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2161,2020-04-27 00:00:00,Banner Hospital- Chandler,Acute Care ,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,55.0,1.0,55,Good
+2182,2020-04-27 00:00:00,Barton House,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,3.0,50.0,150,Good
+2183,2020-04-27 00:00:00,Barton House,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,3.0,30.0,90,Good
+2187,2020-04-27 00:00:00,Barton House,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+2193,2020-04-27 00:00:00,Barton House,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2194,2020-04-27 00:00:00,Barton House,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+2195,2020-04-27 00:00:00,Barton House,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+2205,2020-04-27 00:00:00,Barton House,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2213,2020-04-27 00:00:00,Desert Cove,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,3.0,30.0,90,Good
+2217,2020-04-27 00:00:00,Desert Cove,LTCF,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+2240,2020-04-27 00:00:00,Desert Cove,LTCF,Ponchos,Maricopa,Alt. Gowns,4.0,24.0,96,Good
+2253,2020-04-27 00:00:00,Glencroft Center for Modern Aging,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2254,2020-04-27 00:00:00,Glencroft Center for Modern Aging,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+2255,2020-04-27 00:00:00,Glencroft Center for Modern Aging,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+2265,2020-04-27 00:00:00,Glencroft Center for Modern Aging,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2272,2020-04-27 00:00:00,Sierra Winds,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,6.0,50.0,300,Good
+2283,2020-04-27 00:00:00,Sierra Winds,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2284,2020-04-27 00:00:00,Sierra Winds,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+2285,2020-04-27 00:00:00,Sierra Winds,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+2295,2020-04-27 00:00:00,Sierra Winds,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2302,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,5.0,50.0,250,Good
+2303,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+2307,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+2316,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+2317,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+2318,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+2320,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+2321,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+2324,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+2325,2020-04-27 00:00:00,Springs of Scottsdale,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+2360,2020-04-28 00:00:00,Beatitudes Campus,LTCF,Ponchos,Maricopa,Alt. Gowns,2.0,24.0,48,Good
+2362,2020-04-28 00:00:00,Creative Innovations,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,3.0,50.0,150,Good
+2373,2020-04-28 00:00:00,Creative Innovations,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2374,2020-04-28 00:00:00,Creative Innovations,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+2385,2020-04-28 00:00:00,Creative Innovations,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,6.0,24.0,144,Good
+2390,2020-04-28 00:00:00,Creative Innovations,LTCF,Ponchos,SNS,Alt. Gowns,2.0,24.0,48,Were ponchos actually given? (48 from Hand reciept)
+2392,2020-04-28 00:00:00,Park Terrace at Greenway,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,4.0,50.0,200,Good
+2397,2020-04-28 00:00:00,Park Terrace at Greenway,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+2415,2020-04-28 00:00:00,Park Terrace at Greenway,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+2420,2020-04-28 00:00:00,Park Terrace at Greenway,LTCF,Ponchos,Maricopa,Alt. Gowns,2.0,24.0,48,Good
+2448,2020-04-30 00:00:00,Allegiant Health Care,LTCF,Hand Sanitizer,AZ/MasCache,Hand Sanitizer,6.0,1.0,6,Good
+2452,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+2466,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+2467,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+2468,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+2470,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+2471,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+2474,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+2475,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,5.0,24.0,120,Good
+2480,2020-04-30 00:00:00,Elderly & Physically Disabled Providers Alliance,LTCF,Ponchos,Maricopa,Alt. Gowns,8.0,24.0,192,Good
+2482,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,5.0,50.0,250,Good
+2483,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,10.0,30.0,300,Good
+2496,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+2497,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,6.0,100.0,600,Good
+2498,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+2500,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,3.0,100.0,300,Good
+2501,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,3.0,100.0,300,Good
+2504,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+2505,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,5.0,24.0,120,Good
+2509,2020-04-30 00:00:00,Immanuel Campus of Care ,LTCF,Rain Coats,Maricopa,Alt. Gowns,64.0,,64,4 Cases 16 box 
+2513,2020-04-30 00:00:00,Lake Pleasant Post Acute Rehab,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,4.0,30.0,120,Good
+2517,2020-04-30 00:00:00,Lake Pleasant Post Acute Rehab,LTCF,"Masks, N95, Med/Large",SNS,N95,4.0,20.0,80,Good
+2523,2020-04-30 00:00:00,Lake Pleasant Post Acute Rehab,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2524,2020-04-30 00:00:00,Lake Pleasant Post Acute Rehab,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+2525,2020-04-30 00:00:00,Lake Pleasant Post Acute Rehab,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+2539,2020-04-30 00:00:00,Lake Pleasant Post Acute Rehab,LTCF,Rain Coats,Maricopa,Alt. Gowns,3.0,25.0,75,Good
+2549,2020-04-30 00:00:00,Lura Turner Homes,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+2550,2020-04-30 00:00:00,Lura Turner Homes,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+2563,2020-04-30 00:00:00,Lura Turner Homes,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+2564,2020-04-30 00:00:00,Lura Turner Homes,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+2565,2020-04-30 00:00:00,Lura Turner Homes,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+2572,2020-04-30 00:00:00,Lura Turner Homes,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+2576,2020-04-30 00:00:00,Lura Turner Homes,LTCF,Rain Coats,Maricopa,Alt. Gowns,24.0,,24,Good
+2586,2020-04-30 00:00:00,Arizona Mentor-Raven,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+2587,2020-04-30 00:00:00,Arizona Mentor-Raven,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+2598,2020-04-30 00:00:00,Arizona Mentor-Raven,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+2623,2020-04-30 00:00:00,Mission Palms Post Acute,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+2624,2020-04-30 00:00:00,Mission Palms Post Acute,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,17.0,30.0,510,Good
+2634,2020-04-30 00:00:00,Mission Palms Post Acute,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+2635,2020-04-30 00:00:00,Mission Palms Post Acute,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+2636,2020-04-30 00:00:00,Mission Palms Post Acute,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+2646,2020-04-30 00:00:00,Mission Palms Post Acute,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,21.0,24.0,504,Good
+2660,2020-04-29 00:00:00,Morning Star at Golden Ridge,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,5.0,50.0,250,Good
+2661,2020-04-29 00:00:00,Morning Star at Golden Ridge,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+2665,2020-04-29 00:00:00,Morning Star at Golden Ridge,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+2688,2020-04-29 00:00:00,Morning Star at Golden Ridge,LTCF,Ponchos,Maricopa,Alt. Gowns,2.0,24.0,48,Good
+2697,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+2698,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+2702,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+2711,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+2712,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+2713,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+2715,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+2716,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+2719,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+2720,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+2724,2020-04-30 00:00:00,Morning Star Senior Living,LTCF,Rain Coats,Maricopa,Alt. Gowns,90.0,,90,Good
+2734,2020-04-30 00:00:00,Orion Homes,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,2.0,50.0,100,Good
+2735,2020-04-30 00:00:00,Orion Homes,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+2739,2020-04-30 00:00:00,Orion Homes,LTCF,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+2748,2020-04-30 00:00:00,Orion Homes,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+2749,2020-04-30 00:00:00,Orion Homes,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,4.0,100.0,400,Good
+2750,2020-04-30 00:00:00,Orion Homes,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+2752,2020-04-30 00:00:00,Orion Homes,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+2753,2020-04-30 00:00:00,Orion Homes,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+2757,2020-04-30 00:00:00,Orion Homes,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2762,2020-04-30 00:00:00,Orion Homes,LTCF,Ponchos,Maricopa,Alt. Gowns,2.0,24.0,48,Good
+2771,2020-04-30 00:00:00,Rock Creek,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,5.0,50.0,250,Good
+2772,2020-04-30 00:00:00,Rock Creek,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,9.0,30.0,270,Good
+2785,2020-04-30 00:00:00,Rock Creek,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,9.0,100.0,900,Good
+2786,2020-04-30 00:00:00,Rock Creek,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,9.0,100.0,900,Good
+2787,2020-04-30 00:00:00,Rock Creek,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,9.0,100.0,900,Good
+2789,2020-04-30 00:00:00,Rock Creek,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,9.0,100.0,900,Good
+2790,2020-04-30 00:00:00,Rock Creek,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,9.0,100.0,900,Good
+2793,2020-04-30 00:00:00,Rock Creek,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+2794,2020-04-30 00:00:00,Rock Creek,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,11.0,24.0,264,Good
+2799,2020-04-30 00:00:00,Rock Creek,LTCF,Ponchos,Maricopa,Alt. Gowns,2.0,24.0,48,Good
+2808,2020-04-30 00:00:00,Solterra Senior Living-Chandler,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,8.0,50.0,400,Good
+2809,2020-04-30 00:00:00,Solterra Senior Living-Chandler,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+2813,2020-04-30 00:00:00,Solterra Senior Living-Chandler,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+2831,2020-04-30 00:00:00,Solterra Senior Living-Chandler,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+2836,2020-04-30 00:00:00,Solterra Senior Living-Chandler,LTCF,Ponchos,Maricopa,Alt. Gowns,2.0,24.0,48,Good
+2845,2020-04-30 00:00:00,Surprise Health and Rehab Center,,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,4.0,50.0,200,Good
+2859,2020-04-30 00:00:00,Surprise Health and Rehab Center,,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+2860,2020-04-30 00:00:00,Surprise Health and Rehab Center,,"Gloves, (LATEX), Medium",SNS,Gloves,5.0,100.0,500,Good
+2861,2020-04-30 00:00:00,Surprise Health and Rehab Center,,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+2867,2020-04-30 00:00:00,Surprise Health and Rehab Center,,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+2908,2020-04-30 00:00:00,Westchester Senior Campus,LTCF,Hand Sanitizer,AZ/MasCache,Hand Sanitizer,3.0,,3,Good
+2945,2020-05-01 00:00:00,Immanuel Campus of Care,LTCF,Hand Sanitizer,AZ/MasCache,Hand Sanitizer,3.0,,3,Good
+2956,2020-04-30 00:00:00,Olive Grove Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+2957,2020-04-30 00:00:00,Olive Grove Assisted Living,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,6.0,30.0,180,Good
+2961,2020-04-30 00:00:00,Olive Grove Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+2979,2020-04-30 00:00:00,Olive Grove Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+2993,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,4.0,50.0,200,Good
+2994,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+2998,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+3007,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+3008,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+3009,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+3015,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+3016,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+3020,2020-05-01 00:00:00,"Open Arms, LLC",LTCF,Rain Coats,Maricopa,Alt. Gowns,74.0,,74,Good
+3056,2020-05-01 00:00:00,R & D Adult Care,LTCF,Hand Sanitizer,AZ/MasCache,Hand Sanitizer,4.0,,4,Good
+3068,2020-05-01 00:00:00,Sunview Respiratory and Rehab,,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,10.0,30.0,300,Good
+3078,2020-05-01 00:00:00,Sunview Respiratory and Rehab,,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+3080,2020-05-01 00:00:00,Sunview Respiratory and Rehab,,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+3081,2020-05-01 00:00:00,Sunview Respiratory and Rehab,,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+3082,2020-05-01 00:00:00,Sunview Respiratory and Rehab,,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+3083,2020-05-01 00:00:00,Sunview Respiratory and Rehab,,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+3105,2020-05-01 00:00:00,Thunderbird Senior Living ,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,9.0,30.0,270,Good
+3133,2020-05-01 00:00:00,Thunderbird Senior Living ,LTCF,Shoe Cover ,Donations,Shoe Cover,50.0,,50,Good
+3141,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+3142,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+3146,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+3149,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,200.0,1.0,200,"8 Cases, is it 25/case?"
+3155,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+3156,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+3157,2020-05-01 00:00:00,Avenir Memory Care at Chandler,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+3178,2020-05-01 00:00:00,Bridgewater Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+3192,2020-05-01 00:00:00,Bridgewater Assisted Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,10.0,100.0,1000,Good
+3193,2020-05-01 00:00:00,Bridgewater Assisted Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,10.0,100.0,1000,Good
+3194,2020-05-01 00:00:00,Bridgewater Assisted Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,10.0,100.0,1000,Good
+3201,2020-05-01 00:00:00,Bridgewater Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,21.0,24.0,504,Good
+3205,2020-05-01 00:00:00,Bridgewater Assisted Living,LTCF,Rain Coats,Maricopa,Alt. Gowns,38.0,,38,Good
+3238,2020-05-01 00:00:00,Desert Blossom Health & Rehab,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,21.0,24.0,504,Good
+3242,2020-05-01 00:00:00,Desert Blossom Health & Rehab,LTCF,Rain Coats,Donations,Alt. Gowns,200.0,,200,Good
+3275,2020-05-01 00:00:00,Freedom Plaza Care Center ,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+3278,2020-05-01 00:00:00,Freedom Plaza Care Center ,LTCF,Hand Sanitizer,AZ/MasCache,Hand Sanitizer,8.0,,8,Good
+3279,2020-05-01 00:00:00,Freedom Plaza Care Center ,LTCF,Rain Coats,Maricopa,Alt. Gowns,96.0,,96,Good
+3315,2020-05-01 00:00:00,Gardens at Ocotillo,LTCF,Hand Sanitizer,Purchased/Maricopa,Hand Sanitizer,6.0,,6,Good
+3326,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,120.0,50.0,6000,Good
+3327,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,32.0,30.0,960,Good
+3331,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Masks, N95, Med/Large",SNS,N95,2.0,20.0,40,Good
+3337,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+3338,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+3339,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+3344,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Gloves, (NITRILE), Medium",Donations,Gloves,4.0,100.0,400,Good
+3345,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Gloves, (NITRILE), Large",Donations,Gloves,21.0,100.0,2100,Good
+3349,2020-05-01 00:00:00,Gila River Indian Community,Tribal,"Face Shield, Full Foam Top",SNS,Face Shield,41.0,24.0,984,Good
+3377,2020-05-01 00:00:00,Haven of Phoenix,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+3378,2020-05-01 00:00:00,Haven of Phoenix,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,4.0,100.0,400,Good
+3379,2020-05-01 00:00:00,Haven of Phoenix,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+3382,2020-05-01 00:00:00,Haven of Phoenix,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+3386,2020-05-01 00:00:00,Haven of Phoenix,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+3390,2020-05-01 00:00:00,Haven of Phoenix,LTCF,Rain Coats,Maricopa,Alt. Gowns,100.0,,,Good
+3413,2020-04-30 00:00:00,Cactus Villa Assisted Living ,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+3423,2020-04-30 00:00:00,Cactus Villa Assisted Living ,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+3465,2020-04-30 00:00:00,Palos Verdes Senior Living,LTCF,Ponchos,Maricopa,Alt. Gowns,4.0,24.0,96,Good
+3467,"April 13,2020",Bandera Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,6.0,50.0,300,Good
+3472,"April 13,2020",Bandera Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,6.0,20.0,120,Good
+3478,"April 13,2020",Bandera Assisted Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,3.0,30.0,90,Good
+3479,"April 13,2020",Bandera Assisted Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,3.0,30.0,90,Good
+3481,"April 13,2020",Bandera Assisted Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+3485,"April 13,2020",Bandera Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+3486,"April 13,2020",Bandera Assisted Living,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+3490,"April 13,2020",Bandera Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+3504,"April 13,2020",Rose Court Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+3509,"April 13,2020",Rose Court Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,10.0,20.0,200,Good
+3515,"April 13,2020",Rose Court Assisted Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,7.0,30.0,210,Good
+3516,"April 13,2020",Rose Court Assisted Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,7.0,30.0,210,Good
+3527,"April 13,2020",Rose Court Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+3541,2020-04-14 00:00:00,Paseo Village Assisted Living,LCTF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,8.0,50.0,400,Good
+3546,2020-04-14 00:00:00,Paseo Village Assisted Living,LCTF,"Masks, N95, Med/Large",SNS,N95,5.0,20.0,100,Good
+3552,2020-04-14 00:00:00,Paseo Village Assisted Living,LCTF,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+3553,2020-04-14 00:00:00,Paseo Village Assisted Living,LCTF,"Gown, Surgical, Sterile, XL",SNS,Gowns,8.0,30.0,240,Good
+3554,2020-04-14 00:00:00,Paseo Village Assisted Living,LCTF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,3.0,18.0,54,Good
+3564,2020-04-14 00:00:00,Paseo Village Assisted Living,LCTF,"Face Shield, Full Foam Top",SNS,Face Shield,3.0,24.0,72,Good
+3583,2020-04-14 00:00:00,ResCare AZ,LTCF,"Masks, N95, Med/Large",SNS,N95,10.0,4.0,40,Good
+3615,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+3620,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Masks, N95, Med/Large",SNS,N95,10.0,20.0,200,Good
+3626,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,3.0,30.0,90,Good
+3627,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,3.0,30.0,90,Good
+3628,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+3629,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+3630,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+3631,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+3632,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+3633,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+3634,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+3636,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+3637,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+3638,2020-04-14 00:00:00,Rock Creek Care Center,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+3652,2020-04-14 00:00:00,Sunshine Village,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+3657,2020-04-14 00:00:00,Sunshine Village,LTCF,"Masks, N95, Med/Large",SNS,N95,13.0,20.0,260,Good
+3663,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,3.0,30.0,90,Good
+3664,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,3.0,30.0,90,Good
+3665,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+3666,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+3667,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+3668,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+3669,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+3670,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+3671,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+3673,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+3674,2020-04-14 00:00:00,Sunshine Village,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+3675,2020-04-14 00:00:00,Sunshine Village,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,10.0,24.0,240,Good
+3689,2020-04-14 00:00:00,The Forum at Desert Harbor,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+3694,2020-04-14 00:00:00,The Forum at Desert Harbor,LTCF,"Masks, N95, Med/Large",SNS,N95,10.0,20.0,200,Good
+3700,2020-04-14 00:00:00,The Forum at Desert Harbor,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+3701,2020-04-14 00:00:00,The Forum at Desert Harbor,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+3702,2020-04-14 00:00:00,The Forum at Desert Harbor,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+3712,2020-04-14 00:00:00,The Forum at Desert Harbor,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,8.0,24.0,192,Good
+3726,2020-04-14 00:00:00,Vicky's Loving Home,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+3731,2020-04-14 00:00:00,Vicky's Loving Home,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+3737,2020-04-14 00:00:00,Vicky's Loving Home,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+3749,2020-04-14 00:00:00,Vicky's Loving Home,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+3763,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+3774,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,5.0,30.0,150,Good
+3775,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,5.0,30.0,150,Good
+3776,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,3.0,18.0,54,Good
+3777,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+3778,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+3779,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+3781,2020-04-16 00:00:00,Center at Arrowhead,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,3.0,100.0,300,Good
+3800,2020-04-16 00:00:00,Copper Village,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+3805,2020-04-16 00:00:00,Copper Village,LTCF,"Masks, N95, Med/Large",SNS,N95,4.0,20.0,80,Good
+3811,2020-04-16 00:00:00,Copper Village,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+3812,2020-04-16 00:00:00,Copper Village,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+3814,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+3815,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,6.0,100.0,600,Good
+3816,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+3817,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,3.0,100.0,300,Good
+3818,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,6.0,100.0,600,Good
+3819,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,3.0,100.0,300,Good
+3821,2020-04-16 00:00:00,Copper Village,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,3.0,100.0,300,Good
+3837,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,6.0,50.0,300,Good
+3838,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,10.0,30.0,300,Good
+3848,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+3850,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,10.0,18.0,180,Good
+3851,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+3852,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+3853,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+3854,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,3.0,100.0,300,Good
+3855,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,3.0,100.0,300,Good
+3856,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,3.0,100.0,300,Good
+3858,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,3.0,100.0,300,Good
+3859,2020-04-16 00:00:00,Gardens at Ocotillo,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,6.0,100.0,600,Good
+3874,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,14.0,50.0,700,Good
+3885,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,5.0,30.0,150,Good
+3886,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,5.0,30.0,150,Good
+3887,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,3.0,18.0,54,Good
+3888,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,5.0,100.0,500,Good
+3889,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,5.0,100.0,500,Good
+3890,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,5.0,100.0,500,Good
+3891,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,5.0,100.0,500,Good
+3892,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,5.0,100.0,500,Good
+3893,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,5.0,100.0,500,Good
+3895,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,5.0,100.0,500,Good
+3896,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,5.0,100.0,500,Good
+3897,2020-04-16 00:00:00,Life Care Center of Paradise Valley,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+3911,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,48.0,50.0,2400,Good
+3922,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,13.0,30.0,390,Good
+3923,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,13.0,30.0,390,Good
+3925,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+3926,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+3927,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+3928,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+3929,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+3930,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+3932,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+3933,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+3934,2020-04-16 00:00:00,North Mt Medical and Rehab Center,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,8.0,24.0,192,Good
+3948,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+3949,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,5.0,30.0,150,Good
+3959,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,8.0,30.0,240,Good
+3960,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,8.0,30.0,240,Good
+3961,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,6.0,18.0,108,Good
+3962,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+3963,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+3964,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+3965,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+3966,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+3967,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+3969,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+3970,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,4.0,100.0,400,Good
+3971,2020-04-16 00:00:00,Palos Verdes Senior Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+3985,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,11.0,50.0,550,Good
+3996,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,9.0,30.0,270,Good
+3997,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,9.0,30.0,270,Good
+3999,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4000,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+4001,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+4002,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+4003,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+4004,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+4007,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+4008,2020-04-17 00:00:00,Advanced Health Care Mesa,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,12.0,24.0,288,Good
+4022,2020-04-17 00:00:00,Arizona Mentor Group Home,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+4023,2020-04-17 00:00:00,Arizona Mentor Group Home,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+4034,2020-04-17 00:00:00,Arizona Mentor Group Home,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+4040,2020-04-17 00:00:00,Arizona Mentor Group Home,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4045,2020-04-17 00:00:00,Arizona Mentor Group Home,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+4059,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,14.0,50.0,700,Good
+4060,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,23.0,30.0,690,Good
+4070,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,8.0,30.0,240,Good
+4071,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,8.0,30.0,240,Good
+4073,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+4074,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+4075,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+4076,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+4077,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4078,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+4080,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+4081,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4082,2020-04-17 00:00:00,Desert Winds Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,20.0,24.0,480,Good
+4096,2020-04-17 00:00:00,Dr. Darrell B. Sims Oral Surgery,Private Practice,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+4097,2020-04-17 00:00:00,Dr. Darrell B. Sims Oral Surgery,Private Practice,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+4109,2020-04-17 00:00:00,Dr. Darrell B. Sims Oral Surgery,Private Practice,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+4119,2020-04-17 00:00:00,Dr. Darrell B. Sims Oral Surgery,Private Practice,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+4133,2020-04-17 00:00:00,Mission Palms,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,2.0,50.0,100,Good
+4134,2020-04-18 00:00:00,Mission Palms,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,16.0,30.0,480,Good
+4144,2020-04-17 00:00:00,Mission Palms,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,8.0,30.0,240,Good
+4145,2020-04-17 00:00:00,Mission Palms,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,8.0,30.0,240,Good
+4147,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+4148,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+4149,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+4150,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+4151,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4152,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+4154,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+4155,2020-04-17 00:00:00,Mission Palms,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4170,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,11.0,50.0,550,Good
+4181,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,8.0,30.0,240,Good
+4182,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,8.0,30.0,240,Good
+4184,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4185,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+4186,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+4187,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+4188,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,4.0,100.0,400,Good
+4192,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+4193,2020-04-17 00:00:00,Park Senior Villas,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,12.0,24.0,288,Good
+4221,"April 20,2020",Bridge Water Assisted Living ,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,11.0,100.0,1100,Good
+4222,"April 20,2020",Bridge Water Assisted Living ,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,11.0,100.0,1100,Good
+4223,"April 20,2020",Bridge Water Assisted Living ,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,11.0,100.0,1100,Good
+4225,"April 20,2020",Bridge Water Assisted Living ,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,11.0,100.0,1100,Good
+4226,"April 20,2020",Bridge Water Assisted Living ,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,11.0,100.0,1100,Good
+4229,"April 20,2020",Bridge Water Assisted Living ,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,11.0,100.0,1100,Good
+4244,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,14.0,50.0,700,Good
+4245,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+4255,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+4256,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+4257,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+4258,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4259,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+4260,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+4261,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,2.0,100.0,200,Good
+4262,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+4263,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+4265,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+4266,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+4267,"April 20,2020",Heritage Court Post Acute of Scottsdale,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,8.0,24.0,192,Good
+4281,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,80.0,50.0,4000,Good
+4282,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,67.0,30.0,2010,"They gave them 8 cases and 3 boxes, total should be 2010, ticket has total 2000"
+4295,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, (LATEX), Small",SNS,Gloves,5.0,100.0,500,Good
+4296,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, (LATEX), Medium",SNS,Gloves,10.0,100.0,1000,Good
+4297,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, (LATEX), Large",SNS,Gloves,5.0,100.0,500,Good
+4298,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, (NITRILE), Small",SNS,Gloves,5.0,100.0,500,Good
+4299,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, (NITRILE), Medium",SNS,Gloves,5.0,100.0,500,Good
+4300,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, (NITRILE), Large",SNS,Gloves,5.0,100.0,500,Good
+4303,"April 20,2020",Salt River Pima Medical Indian Comm,Tribal,"Gloves, non-latex (VINYL), Large",SNS,Gloves,10.0,100.0,1000,Good
+4318,"April 21,2020",Bethany Ranch Home,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,8.0,50.0,400,Good
+4319,"April 21,2020",Bethany Ranch Home,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,13.0,30.0,390,Good
+4329,"April 21,2020",Bethany Ranch Home,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,5.0,30.0,150,Good
+4330,"April 21,2020",Bethany Ranch Home,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,5.0,30.0,150,Good
+4331,"April 21,2020",Bethany Ranch Home,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+4332,"April 21,2020",Bethany Ranch Home,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,7.0,100.0,700,Good
+4333,"April 21,2020",Bethany Ranch Home,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,7.0,100.0,700,Good
+4334,"April 21,2020",Bethany Ranch Home,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,7.0,100.0,700,Good
+4336,"April 21,2020",Bethany Ranch Home,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,13.0,100.0,1300,Good
+4337,"April 21,2020",Bethany Ranch Home,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,13.0,100.0,1300,Good
+4340,"April 21,2020",Bethany Ranch Home,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4341,"April 21,2020",Bethany Ranch Home,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,17.0,24.0,408,Good
+4355,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,28.0,50.0,1400,Good
+4356,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,23.0,30.0,690,Good
+4366,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,25.0,30.0,750,Good
+4367,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,15.0,30.0,450,Good
+4368,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,35.0,18.0,630,Good
+4369,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,3.0,100.0,300,Good
+4370,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+4371,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+4373,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,6.0,100.0,600,Good
+4374,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,5.0,100.0,500,Good
+4377,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4378,"April 21,2020",Brookdale Baywood Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,29.0,24.0,696,Good
+4392,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,2.0,50.0,100,Good
+4393,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,13.0,30.0,390,Good
+4403,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,30.0,30.0,900,Good
+4405,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,50.0,18.0,900,Good
+4406,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4407,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+4410,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,5.0,100.0,500,Good
+4411,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,4.0,100.0,400,Good
+4415,"April 21,2020",Lake Pleasant Post Acute,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,15.0,24.0,360,Good
+4429,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+4434,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Masks, N95, Med/Large",SNS,N95,5.0,20.0,100,Good
+4440,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+4441,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,1.0,30.0,30,Good
+4443,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+4444,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+4445,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+4446,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+4447,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+4448,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+4450,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+4451,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4452,"April 21,2020",Quality Senior Home Asisted Living Facility,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+4466,"April 21,2020",Recovery Innovations,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,20.0,50.0,1000,Good
+4471,"April 21,2020",Recovery Innovations,LTCF,"Masks, N95, Med/Large",SNS,N95,7.0,20.0,140,Good
+4477,"April 21,2020",Recovery Innovations,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+4478,"April 21,2020",Recovery Innovations,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+4480,"April 21,2020",Recovery Innovations,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4481,"April 21,2020",Recovery Innovations,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+4482,"April 21,2020",Recovery Innovations,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+4487,"April 21,2020",Recovery Innovations,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,Good
+4489,"April 21,2020",Recovery Innovations,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+4503,"April 22,2020",Desert Haven Care Center,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,10.0,50.0,500,Good
+4504,"April 22,2020",Desert Haven Care Center,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,3.0,30.0,90,Good
+4514,"April 22,2020",Desert Haven Care Center,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,7.0,30.0,210,Good
+4516,"April 22,2020",Desert Haven Care Center,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+4517,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+4518,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+4519,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+4520,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+4521,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4522,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+4525,"April 22,2020",Desert Haven Care Center,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4526,"April 22,2020",Desert Haven Care Center,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+4540,"April 22,2020",Empowerment House,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,2.0,50.0,100,Good
+4541,"April 22,2020",Empowerment House,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,3.0,30.0,90,Good
+4551,"April 22,2020",Empowerment House,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+4553,"April 22,2020",Empowerment House,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+4558,"April 22,2020",Empowerment House,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4563,"April 22,2020",Empowerment House,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+4577,"April 22,2020",Loving Manor Assisted Living,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,1.0,50.0,50,Good
+4582,"April 22,2020",Loving Manor Assisted Living,LTCF,"Masks, N95, Med/Large",SNS,N95,1.0,20.0,20,Good
+4590,"April 22,2020",Loving Manor Assisted Living,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,1.0,18.0,18,Good
+4595,"April 22,2020",Loving Manor Assisted Living,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4600,"April 22,2020",Loving Manor Assisted Living,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+4614,"April 22,2020",Lynwood Home,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,4.0,50.0,200,Good
+4615,"April 22,2020",Lynwood Home,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,7.0,30.0,210,Good
+4625,"April 22,2020",Lynwood Home,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,1.0,30.0,30,Good
+4629,"April 22,2020",Lynwood Home,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+4632,"April 22,2020",Lynwood Home,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4637,"April 22,2020",Lynwood Home,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+4651,"April 22,2020",Mariposa Point at Mesa,4,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,4.0,50.0,200,Good
+4652,"April 22,2020",Mariposa Point at Mesa,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,4.0,30.0,120,Good
+4662,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,3.0,30.0,90,Good
+4664,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,3.0,18.0,54,Good
+4665,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4666,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+4667,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+4669,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,5.0,100.0,500,Good
+4670,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,5.0,100.0,500,Good
+4673,"April 22,2020",Mariposa Point at Mesa,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4674,"April 22,2020",Mariposa Point at Mesa,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+4688,"April 23,2020",AZ Dream Team Grace House,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,3.0,50.0,150,Good
+4703,"April 23,2020",AZ Dream Team Grace House,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,10.0,100.0,1000,Good
+4704,"April 23,2020",AZ Dream Team Grace House,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,10.0,100.0,1000,Good
+4705,"April 23,2020",AZ Dream Team Grace House,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+4706,"April 23,2020",AZ Dream Team Grace House,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,30.0,100.0,3000,They wrote that they gave them 3 cases but the total amount says 300 instead of 3000
+4707,"April 23,2020",AZ Dream Team Grace House,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,30.0,100.0,3000,They wrote that they gave them 3 cases but the total amount says 300 instead of 3000
+4710,"April 23,2020",AZ Dream Team Grace House,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4711,"April 23,2020",AZ Dream Team Grace House,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+4726,"April 23,2020",Brookdale North Gilbert,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,21.0,30.0,630,Good
+4739,"April 23,2020",Brookdale North Gilbert,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+4740,"April 23,2020",Brookdale North Gilbert,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,3.0,100.0,300,Good
+4741,"April 23,2020",Brookdale North Gilbert,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,3.0,100.0,300,Good
+4743,"April 23,2020",Brookdale North Gilbert,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,Good
+4744,"April 23,2020",Brookdale North Gilbert,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,Good
+4747,"April 23,2020",Brookdale North Gilbert,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4748,"April 23,2020",Brookdale North Gilbert,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,35.0,24.0,840,Good
+4762,"April 23,2020",Christen Care Health Center,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,3.0,50.0,150,Good
+4763,"April 23,2020",Christen Care Health Center,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,5.0,30.0,150,Good
+4776,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4777,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+4778,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+4779,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+4780,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+4781,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+4784,"April 23,2020",Christen Care Health Center,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+4785,"April 23,2020",Christen Care Health Center,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,10.0,24.0,240,Good
+4828,"April 23,2020",Palm House,LTCF,Isolation Gowns,Donations,Gowns,56.0,1.0,56,Good
+4837,"April 23,2020",Sun Valley Lodge,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,6.0,30.0,180,Good
+4859,"April 23,2020",Sun Valley Lodge,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,12.0,24.0,288,Good
+4873,"April 23,2020",The Tungland Corporation ,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,12.0,50.0,600,Good
+4896,"April 23,2020",The Tungland Corporation ,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+4939,"April 24,2020",Copper Village ,LTCF,Face Shields,Donations,Face Shield,40.0,1.0,40,40 boxes or 40 pieces of Face shield ?
+4940,"April 24,2020",Copper Village ,LTCF,Isolation Gowns,Donations,Gowns,48.0,1.0,48,Good
+4947,"April 24,2020",Beatitudes Campus LTCF,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,30.0,50.0,1500,Good
+4948,"April 24,2020",Beatitudes Campus LTCF,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,4.0,30.0,120,Good
+4984,"April 24,2020",Scottsdale Village Square,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,100.0,50.0,5000,Good
+4985,"April 24,2020",Scottsdale Village Square,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,4.0,30.0,120,Good
+4998,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+4999,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,7.0,100.0,700,Good
+5000,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,7.0,100.0,700,Good
+5001,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+5002,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,3.0,100.0,300,Good
+5003,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,3.0,100.0,300,Good
+5006,"April 24,2020",Scottsdale Village Square,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,Good
+5007,"April 24,2020",Scottsdale Village Square,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,21.0,24.0,504,Good
+5021,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,Surgical Masks,7.0,50.0,350,Good
+5022,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,4.0,30.0,120,Good
+5035,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,10.0,100.0,1000,Good
+5036,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,10.0,100.0,1000,Good
+5037,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,10.0,100.0,1000,Good
+5039,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,10.0,100.0,1000,Good
+5040,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,10.0,100.0,1000,Good
+5043,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,10.0,100.0,1000,Good
+5044,"April 24,2020",Westchester Care Center Memory Care,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,3.0,24.0,72,Good
+5087,2020-03-06 00:00:00,Town of Gilbert,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,18.0,20.0,360,Good
+5088,2020-03-06 00:00:00,Town of Gilbert,EMS,Kimberly Clark N95,Missing,N95,2.0,35.0,70,Good
+5124,2020-03-06 00:00:00,City of Peoria,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,6.0,20.0,120,Good
+5132,2020-03-11 00:00:00,Sun City Fire and Medical,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,3.0,50.0,150,Good
+5161,2020-03-11 00:00:00,Sun City Fire and Medical,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,13.0,20.0,260,Good
+5162,2020-03-11 00:00:00,Sun City Fire and Medical,EMS,Disposable Gowns [440511],Maricopa,Gowns,5.0,10.0,50,X-Large come from donations?
+5169,2020-03-12 00:00:00,City of El Mirage,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,4.0,50.0,200,Good
+5198,2020-03-12 00:00:00,City of El Mirage,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,6.0,20.0,120,Good
+5199,2020-03-12 00:00:00,City of El Mirage,EMS,Disposable Gowns [440511],Maricopa,Gowns,4.0,10.0,40,X-Large come from donations?
+5235,2020-03-12 00:00:00,Pacific Coast Hospice,LTCF,N95 Mask Universal [84A-3844],Maricopa,N95,1.0,20.0,20,Good
+5274,2020-03-13 00:00:00,Central Arizona Shelter Services,County,Digital Thermometer [415],Maricopa,Thermometer,36.0,1.0,36,Good
+5275,2020-03-13 00:00:00,Central Arizona Shelter Services,County,Oral Sheaths for Digital Thermometer [18-D50],Maricopa,Thermometer,6.0,50.0,300,Good
+5276,2020-03-13 00:00:00,Central Arizona Shelter Services,County,Digital Thermometer [155912],Maricopa,Thermometer,14.0,1.0,14,Good
+5280,2020-03-16 00:00:00,Arizona Fire and Medical Authority,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,2.0,50.0,100,Good
+5309,2020-03-16 00:00:00,Arizona Fire and Medical Authority,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,15.0,20.0,300,Good
+5310,2020-03-16 00:00:00,Arizona Fire and Medical Authority,EMS,Disposable Gowns [440511],Maricopa,Gowns,1.0,10.0,10,X-Large come from donations?
+5317,2020-03-16 00:00:00,Avondale Fire and Medical,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,2.0,50.0,100,Good
+5346,2020-03-16 00:00:00,Avondale Fire and Medical,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,12.0,20.0,240,Good
+5383,2020-03-16 00:00:00,City of Tolleson,EMS,N95 Mask Universal [84A-3844],Maricopa,N95,6.0,20.0,120,Good
+5384,2020-03-16 00:00:00,City of Tolleson,EMS,Disposable Gowns [440511],Maricopa,Gowns,1.0,10.0,10,X-Large come from donations?
+5420,2020-03-16 00:00:00,Crossroads Pediatrics,Private Practice,N95 Mask Universal [84A-3844],Maricopa,N95,6.0,20.0,120,Good
+5428,2020-03-16 00:00:00,Hospice of the West,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,6.0,50.0,300,Good
+5494,2020-03-17 00:00:00,Moutain Park Health Center,LTCF,N95 Mask Universal [84A-3844],Maricopa,N95,17.0,20.0,340,Good
+5502,2020-03-17 00:00:00,Page Family Practice,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,1.0,50.0,50,Good
+5531,2020-03-17 00:00:00,Page Family Practice,LTCF,N95 Mask Universal [84A-3844],Maricopa,N95,4.0,20.0,80,Good
+5539,2020-03-17 00:00:00,Solace Hospice,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,1.0,50.0,50,Good
+5568,2020-03-17 00:00:00,Solace Hospice,LTCF,N95 Mask Universal [84A-3844],Maricopa,N95,4.0,20.0,80,Good
+5577,2020-03-17 00:00:00,St. Elizabeth Home Health,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,1.0,50.0,50,Good
+5606,2020-03-17 00:00:00,St. Elizabeth Home Health,LTCF,N95 Mask Universal [84A-3844],Maricopa,N95,4.0,20.0,80,Good
+5614,2020-03-17 00:00:00,Valley Home Health Care,Private Practice,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,1.0,50.0,50,AKA: Stokes Family Health Care
+5643,2020-03-17 00:00:00,Valley Home Health Care,Private Practice,N95 Mask Universal [84A-3844],Maricopa,N95,2.0,20.0,40,AKA: Stokes Family Health Care
+5651,2020-03-18 00:00:00,Warner Family Practice,Private Practice,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",Maricopa,N95,1.0,50.0,50,Good
+5680,2020-03-18 00:00:00,Warner Family Practice,Private Practice,N95 Mask Universal [84A-3844],Maricopa,N95,4.0,20.0,80,Good
+5717,2020-03-19 00:00:00,Native Health,FQHC,N95 Mask Universal [84A-3844],Maricopa,N95,12.0,20.0,240,Good
+5756,2020-03-20 00:00:00,AZ Department of Public Safety,County,Stat Paq,AZ/MasCache,Stat Paq,2.0,1.0,2,Good
+5779,2020-03-20 00:00:00,AZ Rangers East Valley Co.,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5780,2020-03-20 00:00:00,AZ Rangers East Valley Co.,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5781,2020-03-20 00:00:00,AZ Rangers East Valley Co.,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5793,2020-03-20 00:00:00,AZ Rangers East Valley Co.,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,1.0,20.0,20,Good
+5794,2020-03-20 00:00:00,AZ Rangers East Valley Co.,EMS,Stat Paq,AZ/MasCache,Stat Paq,2.0,1.0,2,Good
+5830,2020-03-20 00:00:00,Buckeye Fire,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,5.0,20.0,100,Good
+5831,2020-03-20 00:00:00,Buckeye Fire,EMS,Stat Paq,AZ/MasCache,Stat Paq,10.0,1.0,10,Good
+5853,2020-03-20 00:00:00,Avondale Fire and Medical,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,"Pick ticket says 18 more,.. 18 more what?"
+5854,2020-03-20 00:00:00,Avondale Fire and Medical,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,"Pick ticket says 18 more,.. 18 more what?"
+5855,2020-03-20 00:00:00,Avondale Fire and Medical,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,"Pick ticket says 18 more,.. 18 more what?"
+5867,2020-03-20 00:00:00,Avondale Fire and Medical,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,8.0,20.0,160,"Pick ticket says 18 more,.. 18 more what?"
+5868,2020-03-20 00:00:00,Avondale Fire and Medical,EMS,Stat Paq,AZ/MasCache,Stat Paq,20.0,1.0,20,"Pick ticket says 18 more,.. 18 more what?"
+5890,2020-03-20 00:00:00,El Mirage Fire Dept.,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5891,2020-03-20 00:00:00,El Mirage Fire Dept.,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5892,2020-03-20 00:00:00,El Mirage Fire Dept.,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5904,2020-03-20 00:00:00,El Mirage Fire Dept.,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,1.0,20.0,20,Good
+5905,2020-03-20 00:00:00,El Mirage Fire Dept.,EMS,Stat Paq,AZ/MasCache,Stat Paq,5.0,1.0,5,Good
+5927,2020-03-20 00:00:00,Goodyear Fire Dept.,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5928,2020-03-20 00:00:00,Goodyear Fire Dept.,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5929,2020-03-20 00:00:00,Goodyear Fire Dept.,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,10.0,100.0,1000,Good
+5941,2020-03-20 00:00:00,Goodyear Fire Dept.,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,7.0,20.0,140,Good
+5942,2020-03-20 00:00:00,Goodyear Fire Dept.,EMS,Stat Paq,AZ/MasCache,Stat Paq,25.0,1.0,25,Good
+5964,2020-03-20 00:00:00,Honeywell Fire Dept.,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5965,2020-03-20 00:00:00,Honeywell Fire Dept.,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5966,2020-03-20 00:00:00,Honeywell Fire Dept.,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+5978,2020-03-20 00:00:00,Honeywell Fire Dept.,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,2.0,20.0,40,Good
+5979,2020-03-20 00:00:00,Honeywell Fire Dept.,EMS,Stat Paq,AZ/MasCache,Stat Paq,5.0,1.0,5,Good
+6013,2020-03-20 00:00:00,Honor Health,Acute,N95 Mask Universal [84A-3844],SNS,N95,50.0,20.0,1000,Good
+6038,2020-03-20 00:00:00,Maricopa Ambulance,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6039,2020-03-20 00:00:00,Maricopa Ambulance,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6040,2020-03-20 00:00:00,Maricopa Ambulance,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6052,2020-03-20 00:00:00,Maricopa Ambulance,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,4.0,20.0,80,Good
+6053,2020-03-20 00:00:00,Maricopa Ambulance,EMS,Stat Paq,AZ/MasCache,Stat Paq,10.0,1.0,10,Good
+6089,2020-03-20 00:00:00,Mesa Fire and Medical,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,5.0,20.0,100,Good
+6090,2020-03-20 00:00:00,Mesa Fire and Medical,EMS,Stat Paq,AZ/MasCache,Stat Paq,15.0,1.0,15,Good
+6126,2020-03-20 00:00:00,Paradise Valley PD,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,1.0,20.0,20,Good
+6127,2020-03-20 00:00:00,Paradise Valley PD,EMS,Stat Paq,AZ/MasCache,Stat Paq,3.0,1.0,3,Good
+6149,2020-03-20 00:00:00,Rio Verde Fire District,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6150,2020-03-20 00:00:00,Rio Verde Fire District,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6151,2020-03-20 00:00:00,Rio Verde Fire District,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6186,2020-03-20 00:00:00,Scottsdale Fire and Police Dept.,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6187,2020-03-20 00:00:00,Scottsdale Fire and Police Dept.,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6188,2020-03-20 00:00:00,Scottsdale Fire and Police Dept.,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6200,2020-03-20 00:00:00,Scottsdale Fire and Police Dept.,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,3.0,20.0,60,Good
+6201,2020-03-20 00:00:00,Scottsdale Fire and Police Dept.,EMS,Stat Paq,AZ/MasCache,Stat Paq,12.0,1.0,12,Good
+6237,2020-03-20 00:00:00,Sun City Fire and Medical Dept.,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,3.0,20.0,60,Good
+6238,2020-03-20 00:00:00,Sun City Fire and Medical Dept.,EMS,Stat Paq,AZ/MasCache,Stat Paq,12.0,1.0,12,Good
+6260,2020-03-20 00:00:00,Surprise Fire and Medicla,EMS,"Gloves, (NITRILE), Small",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6261,2020-03-20 00:00:00,Surprise Fire and Medicla,EMS,"Gloves, (NITRILE), Medium",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6262,2020-03-20 00:00:00,Surprise Fire and Medicla,EMS,"Gloves, (NITRILE), Large",AZ/MasCache,Gloves,5.0,100.0,500,Good
+6274,2020-03-20 00:00:00,Surprise Fire and Medicla,EMS,N95 Respirators [HM5210],AZ/MasCache,N95,5.0,20.0,100,Good
+6275,2020-03-20 00:00:00,Surprise Fire and Medicla,EMS,Stat Paq,AZ/MasCache,Stat Paq,15.0,1.0,15,Good
+6311,2020-03-20 00:00:00,Tempe Fire Medical Recue Dept.,EMS,Stat Paq,AZ/MasCache,Stat Paq,2.0,1.0,2,Good
+6347,2020-03-20 00:00:00,Valleywise Hospital,Acute,N95 Mask Universal [84A-3844],Maricopa,N95,24.0,20.0,480,Good
+6358,2020-03-30 00:00:00,Maricopa County Juvenile Probation Dept.,Juvenile,"Mask, N95 Particulate Respirator NIOSH [3M 1860], One-Size",Maricopa,N95,54.0,20.0,1080,Good
+6429,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,20.0,50.0,1000,COVID-19 Source
+6434,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Masks, N95, Med/Large",SNS,N95,35.0,20.0,700,COVID-19 Source
+6441,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,17.0,30.0,510,COVID-19 Source
+6442,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,28.0,18.0,504,COVID-19 Source
+6443,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6444,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6445,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6447,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6448,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6450,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6451,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6452,2020-04-02 00:00:00,Avenir Memory Care,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,42.0,24.0,1008,COVID-19 Source
+6460,2020-04-02 00:00:00,Avenir Memory Care,LTCF,S N95 Masks [N95-S],SNS,N95,15.0,20.0,300,COVID-19 Source
+6466,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,53.0,50.0,2650,COVID-19 Source
+6471,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Masks, N95, Med/Large",SNS,N95,90.0,20.0,1800,COVID-19 Source
+6477,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gown, Surgical, Sterile, Large",SNS,Gowns,3.0,30.0,90,COVID-19 Source
+6478,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,COVID-19 Source
+6479,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,COVID-19 Source
+6480,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6481,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6482,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6484,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6485,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, (NITRILE), Large",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6487,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6488,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Gloves, non-latex (VINYL), Large",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6489,2020-04-02 00:00:00,Express Urgent Care,Urgent Care,"Face Shield, Full Foam Top",SNS,Face Shield,35.0,24.0,840,COVID-19 Source
+6503,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,105.0,50.0,5250,Good
+6504,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,18.0,30.0,540,Good
+6514,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+6515,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,3.0,30.0,90,Good
+6516,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,4.0,18.0,72,Good
+6517,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+6518,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+6519,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+6521,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+6522,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+6524,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+6525,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,Good
+6526,2020-04-02 00:00:00,Haven Health Group Management,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,11.0,24.0,264,Good
+6571,2020-04-02 00:00:00,Maricopa County Human Services Dept.,County,Digital Thermometer [155912],Maricopa,,10.0,1.0,10,Good
+6572,2020-04-02 00:00:00,Maricopa County Human Services Dept.,County,Oral Sheaths for Digital Thermometer [18-D50],Maricopa,,6.0,50.0,300,Good
+6573,2020-04-02 00:00:00,Maricopa County Human Services Dept.,County,Digital Thermometer [16-413BGM],Maricopa,,12.0,1.0,12,Good
+6577,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,321.0,50.0,16050,"Wrong Qty from Dircks, double check that's what was meant"
+6578,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,42.0,30.0,1260,"Wrong Qty from Dircks, double check that's what was meant"
+6582,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Masks, N95, Med/Large",SNS,N95,287.0,20.0,5740,"Wrong Qty from Dircks, double check that's what was meant"
+6588,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,34.0,30.0,1020,"Wrong Qty from Dircks, double check that's what was meant"
+6589,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,34.0,30.0,1020,"Wrong Qty from Dircks, double check that's what was meant"
+6590,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,34.0,18.0,612,"Wrong Qty from Dircks, double check that's what was meant"
+6591,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (LATEX), Small",SNS,Gloves,33.0,100.0,3300,"Wrong Qty from Dircks, double check that's what was meant"
+6592,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,43.0,100.0,4300,"Wrong Qty from Dircks, double check that's what was meant"
+6593,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (LATEX), Large",SNS,Gloves,23.0,100.0,2300,"Wrong Qty from Dircks, double check that's what was meant"
+6594,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (NITRILE), Small",SNS,Gloves,18.0,100.0,1800,"Wrong Qty from Dircks, double check that's what was meant"
+6595,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (NITRILE), Medium",SNS,Gloves,28.0,100.0,2800,"Wrong Qty from Dircks, double check that's what was meant"
+6596,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (NITRILE), Large",SNS,Gloves,33.0,100.0,3300,"Wrong Qty from Dircks, double check that's what was meant"
+6598,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,5.0,100.0,500,"Wrong Qty from Dircks, double check that's what was meant"
+6599,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, non-latex (VINYL), Large",SNS,Gloves,15.0,100.0,1500,"Wrong Qty from Dircks, double check that's what was meant"
+6600,2020-04-02 00:00:00,Phoenix Fire Resource Management,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,67.0,24.0,1608,"Wrong Qty from Dircks, double check that's what was meant"
+6614,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,20.0,50.0,1000,COVID-19 Source
+6618,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Masks, N95, Small",SNS,N95,21.0,20.0,420,COVID-19 Source
+6619,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Masks, N95, Med/Large",SNS,N95,29.0,20.0,580,COVID-19 Source
+6626,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gown, Surgical, Sterile, XL",SNS,Gowns,17.0,30.0,510,COVID-19 Source
+6627,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gown, Surgical, Sterile, XXL",SNS,Gowns,28.0,18.0,504,COVID-19 Source
+6628,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6629,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6630,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6632,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, (NITRILE), Medium",SNS,Gloves,2.0,100.0,200,COVID-19 Source
+6633,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6635,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6636,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Gloves, non-latex (VINYL), Large",SNS,Gloves,1.0,100.0,100,COVID-19 Source
+6637,2020-04-02 00:00:00,Surprise Health and Rehab Center,LTCF,"Face Shield, Full Foam Top",SNS,Face Shield,42.0,24.0,1008,COVID-19 Source
+6651,2020-04-03 00:00:00,ABS Ambulance,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,7.0,50.0,350,Good
+6652,2020-04-03 00:00:00,ABS Ambulance,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+6653,2020-04-03 00:00:00,ABS Ambulance,EMS,"Mask, N95 Particulate Respirator NIOSH [Gerson], One-Size",SNS,N95,15.0,20.0,300,Good
+6665,2020-04-03 00:00:00,ABS Ambulance,EMS,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+6666,2020-04-03 00:00:00,ABS Ambulance,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+6667,2020-04-03 00:00:00,ABS Ambulance,EMS,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+6669,2020-04-03 00:00:00,ABS Ambulance,EMS,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+6670,2020-04-03 00:00:00,ABS Ambulance,EMS,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+6671,2020-04-03 00:00:00,ABS Ambulance,EMS,"Gloves, non-latex (VINYL), Small",SNS,Gloves,1.0,100.0,100,Good
+6674,2020-04-03 00:00:00,ABS Ambulance,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+6688,2020-04-03 00:00:00,Air E Vac,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,7.0,50.0,350,Good
+6689,2020-04-03 00:00:00,Air E Vac,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+6702,2020-04-03 00:00:00,Air E Vac,EMS,"Gloves, (LATEX), Small",SNS,Gloves,1.0,100.0,100,Good
+6703,2020-04-03 00:00:00,Air E Vac,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,1.0,100.0,100,Good
+6704,2020-04-03 00:00:00,Air E Vac,EMS,"Gloves, (LATEX), Large",SNS,Gloves,1.0,100.0,100,Good
+6705,2020-04-03 00:00:00,Air E Vac,EMS,"Gloves, (NITRILE), Small",SNS,Gloves,1.0,100.0,100,Good
+6706,2020-04-03 00:00:00,Air E Vac,EMS,"Gloves, (NITRILE), Medium",SNS,Gloves,1.0,100.0,100,Good
+6707,2020-04-03 00:00:00,Air E Vac,EMS,"Gloves, (NITRILE), Large",SNS,Gloves,1.0,100.0,100,Good
+6711,2020-04-03 00:00:00,Air E Vac,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+6725,2020-04-03 00:00:00,Angel Med Flight,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,7.0,50.0,350,Good
+6726,2020-04-03 00:00:00,Angel Med Flight,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+6731,2020-04-03 00:00:00,Angel Med Flight,EMS,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,4.0,1.0,4,Good
+6739,2020-04-03 00:00:00,Angel Med Flight,EMS,"Gloves, (LATEX), Small",SNS,Gloves,2.0,100.0,200,Good
+6740,2020-04-03 00:00:00,Angel Med Flight,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,2.0,100.0,200,Good
+6741,2020-04-03 00:00:00,Angel Med Flight,EMS,"Gloves, (LATEX), Large",SNS,Gloves,2.0,100.0,200,Good
+6748,2020-04-03 00:00:00,Angel Med Flight,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+6762,2020-04-03 00:00:00,AZ Fire and Medical,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+6763,2020-04-03 00:00:00,AZ Fire and Medical,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,12.0,30.0,360,Good
+6773,2020-04-03 00:00:00,AZ Fire and Medical,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+6774,2020-04-03 00:00:00,AZ Fire and Medical,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+6775,2020-04-03 00:00:00,AZ Fire and Medical,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+6799,2020-04-03 00:00:00,Buckeye Fire,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+6804,2020-04-03 00:00:00,Buckeye Fire,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+6810,2020-04-03 00:00:00,Buckeye Fire,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+6822,2020-04-03 00:00:00,Buckeye Fire,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+6837,2020-04-03 00:00:00,Buckeye PD,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+6841,2020-04-03 00:00:00,Buckeye PD,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+6873,2020-04-03 00:00:00,Buckeye Valley,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+6874,2020-04-03 00:00:00,Buckeye Valley,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+6878,2020-04-03 00:00:00,Buckeye Valley,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+6885,2020-04-03 00:00:00,Buckeye Valley,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+6886,2020-04-03 00:00:00,Buckeye Valley,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+6921,2020-04-03 00:00:00,Avondale Fire and Medical,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+6922,2020-04-03 00:00:00,Avondale Fire and Medical,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+6923,2020-04-03 00:00:00,Avondale Fire and Medical,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+6933,2020-04-03 00:00:00,Avondale Fire and Medical,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+6947,2020-04-03 00:00:00,Daisy Medical,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+6953,2020-04-03 00:00:00,Daisy Medical,EMS,"Impermeable coverall without integrated hood, Medium",SNS,Alt. Gowns,54.0,1.0,54,"2 case, 4 box.. Amnt?"
+6954,2020-04-03 00:00:00,Daisy Medical,EMS,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,54.0,1.0,54,"2 case, 4 box.. Amnt?"
+6959,2020-04-03 00:00:00,Daisy Medical,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+6985,2020-04-03 00:00:00,Fountain Hills Fire Dept.,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+6989,2020-04-03 00:00:00,Fountain Hills Fire Dept.,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+6996,2020-04-03 00:00:00,Fountain Hills Fire Dept.,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+6997,2020-04-03 00:00:00,Fountain Hills Fire Dept.,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7007,2020-04-03 00:00:00,Fountain Hills Fire Dept.,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+7022,2020-04-03 00:00:00,Goodyear Fire,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,2 cases or 2 boxes? 
+7026,2020-04-03 00:00:00,Goodyear Fire,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+7032,2020-04-03 00:00:00,Goodyear Fire,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+7033,2020-04-03 00:00:00,Goodyear Fire,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+7034,2020-04-03 00:00:00,Goodyear Fire,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7059,2020-04-03 00:00:00,Guadalupe Fire,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,10.0,30.0,300,Good
+7063,2020-04-03 00:00:00,Guadalupe Fire,EMS,"Masks, N95, Med/Large",SNS,N95,3.0,20.0,60,Good
+7065,2020-04-03 00:00:00,Guadalupe Fire,EMS,"Impermeable coverall without integrated hood, Large",SNS,Alt. Gowns,60.0,1.0,60,Good
+7066,2020-04-03 00:00:00,Guadalupe Fire,EMS,"Impermeable coverall without integrated hood, X-Large",SNS,Alt. Gowns,60.0,1.0,60,Good
+7067,2020-04-03 00:00:00,Guadalupe Fire,EMS,"Impermeable coverall without integrated hood, 2X-Large",SNS,Alt. Gowns,36.0,1.0,36,Good
+7081,2020-04-03 00:00:00,Guadalupe Fire,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+7095,2020-04-03 00:00:00,Mesa Fire Medical Dept.,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+7096,2020-04-03 00:00:00,Mesa Fire Medical Dept.,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+7106,2020-04-03 00:00:00,Mesa Fire Medical Dept.,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,4.0,30.0,120,Good
+7107,2020-04-03 00:00:00,Mesa Fire Medical Dept.,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,4.0,30.0,120,Good
+7108,2020-04-03 00:00:00,Mesa Fire Medical Dept.,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7118,2020-04-03 00:00:00,Mesa Fire Medical Dept.,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,2.0,24.0,48,Good
+7132,2020-04-03 00:00:00,Paradiese Valley PD,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,7.0,50.0,350,Good
+7133,2020-04-03 00:00:00,Paradiese Valley PD,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,4.0,30.0,120,Good
+7149,2020-04-03 00:00:00,Paradiese Valley PD,EMS,"Gloves, (NITRILE), Small",SNS,Gloves,9.0,100.0,900,Good
+7150,2020-04-03 00:00:00,Paradiese Valley PD,EMS,"Gloves, (NITRILE), Medium",SNS,Gloves,9.0,100.0,900,Good
+7151,2020-04-03 00:00:00,Paradiese Valley PD,EMS,"Gloves, (NITRILE), Large",SNS,Gloves,9.0,100.0,900,Good
+7169,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,7.0,50.0,350,What was given? No written amount
+7170,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+7174,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Masks, N95, Med/Large",SNS,N95,14.0,20.0,280,Good
+7180,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+7181,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+7182,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7183,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (LATEX), Small",SNS,Gloves,6.0,100.0,600,Good
+7184,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,8.0,100.0,800,Good
+7185,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (LATEX), Large",SNS,Gloves,4.0,100.0,400,Good
+7186,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (NITRILE), Small",SNS,Gloves,3.0,100.0,300,Good
+7188,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, (NITRILE), Large",SNS,Gloves,6.0,100.0,600,Good
+7190,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+7191,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Gloves, non-latex (VINYL), Large",SNS,Gloves,3.0,100.0,300,Good
+7192,2020-04-03 00:00:00,Phoenix Fire Resource Management,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+7207,2020-04-03 00:00:00,Scottsdale Fire Dept.,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,1.0,30.0,30,Good
+7209,2020-04-03 00:00:00,Scottsdale Fire Dept.,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 1860], One-Size",SNS,N95,2.0,20.0,40,Was 2 CASES (40) or 60 pieces given?
+7218,2020-04-03 00:00:00,Scottsdale Fire Dept.,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+7229,2020-04-03 00:00:00,Scottsdale Fire Dept.,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+7244,2020-04-03 00:00:00,Sun City Fire Dept.,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,19.0,30.0,570,Good
+7254,2020-04-03 00:00:00,Sun City Fire Dept.,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+7255,2020-04-03 00:00:00,Sun City Fire Dept.,EMS,"Gown, Surgical, Sterile, XL",SNS,Gowns,2.0,30.0,60,Good
+7256,2020-04-03 00:00:00,Sun City Fire Dept.,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7266,2020-04-03 00:00:00,Sun City Fire Dept.,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,1.0,24.0,24,Good
+7280,2020-04-03 00:00:00,Tempe Fire Dept.,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+7281,2020-04-03 00:00:00,Tempe Fire Dept.,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+7285,2020-04-03 00:00:00,Tempe Fire Dept.,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+7291,2020-04-03 00:00:00,Tempe Fire Dept.,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+7293,2020-04-03 00:00:00,Tempe Fire Dept.,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7303,2020-04-03 00:00:00,Tempe Fire Dept.,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+7328,2020-04-04 00:00:00,El Mirage Fire Dept.,EMS,"Gown, Surgical, Sterile, Large",SNS,Gowns,2.0,30.0,60,Good
+7330,2020-04-04 00:00:00,El Mirage Fire Dept.,EMS,"Gown, Surgical, Sterile, XXL",SNS,Gowns,2.0,18.0,36,Good
+7340,2020-04-04 00:00:00,El Mirage Fire Dept.,EMS,"Face Shield, Full Foam Top",SNS,Face Shield,4.0,24.0,96,Good
+7354,2020-04-04 00:00:00,El Mirage PD,EMS,"Mask, Standard Procedure, Yellow [Kimberly-Clark], One-Size",SNS,N95,31.0,50.0,1550,Good
+7355,2020-04-04 00:00:00,El Mirage PD,EMS,"Mask, N95 Particulate Respirator NIOSH [3M 8000], Med/Lg",SNS,N95,2.0,30.0,60,Good
+7359,2020-04-04 00:00:00,El Mirage PD,EMS,"Masks, N95, Med/Large",SNS,N95,15.0,20.0,300,Good
+7368,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, (LATEX), Small",SNS,Gloves,6.0,100.0,600,Good
+7369,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, (LATEX), Medium",SNS,Gloves,8.0,100.0,800,Good
+7370,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, (LATEX), Large",SNS,Gloves,4.0,100.0,400,Good
+7371,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, (NITRILE), Small",SNS,Gloves,3.0,100.0,300,Good
+7372,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, (NITRILE), Medium",SNS,Gloves,5.0,100.0,500,Good
+7373,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, (NITRILE), Large",SNS,Gloves,6.0,100.0,600,Good
+7375,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, non-latex (VINYL), Medium",SNS,Gloves,1.0,100.0,100,Good
+7376,2020-04-04 00:00:00,El Mirage PD,EMS,"Gloves, non-latex (VINYL), Large",SNS,Gloves,3.0,100.0,300,Good

@@ -1,0 +1,597 @@
+,facility type,category,month,qty out
+0,Fqhc/community center,face shield,10,300.0
+1,Fqhc/community center,gloves,10,3000.0
+2,Fqhc/community center,gowns,10,300.0
+3,Fqhc/community center,surgical mask,10,3500.0
+4,Fqhc/community health center,face shield,10,900.0
+5,Fqhc/community health center,gloves,10,6000.0
+6,Fqhc/community health center,gowns,10,10.0
+7,Fqhc/community health center,n95,10,400.0
+8,Fqhc/community health center,n95,11,700.0
+9,Fqhc/community health center,surgical mask,10,500.0
+10,Home health,face shield,10,820.0
+11,Home health,gloves,10,2200.0
+12,Home health,gowns,10,160.0
+13,Home health,n95,10,560.0
+14,Home health,surgical mask,10,2250.0
+15,Home health,testing supplies,10,400.0
+16,Hospice care,testing supplies,1,120.0
+17,Hospital,ancillary kits,1,100.0
+18,Hospital,face shield,10,1200.0
+19,Hospital,face shield,11,250.0
+20,Hospital,gloves,1,19800.0
+21,Hospital,gloves,10,6600.0
+22,Hospital,gloves,11,4100.0
+23,Hospital,gloves,12,1000.0
+24,Hospital,gowns,1,1500.0
+25,Hospital,gowns,10,320.0
+26,Hospital,gowns,11,250.0
+27,Hospital,gowns,12,1000.0
+28,Hospital,n95,1,120.0
+29,Hospital,n95,10,340.0
+30,Hospital,n95,11,920.0
+31,Hospital,n95,12,200.0
+32,Hospital,surgical mask,1,760.0
+33,Hospital,surgical mask,10,6000.0
+34,Hospital,surgical mask,11,1450.0
+35,Hospital,testing supplies,1,3120.0
+36,Hospital,testing supplies,10,160.0
+37,Hospital,testing supplies,11,200.0
+38,Hospital,ventilator,12,56.0
+39,Mc,gloves,11,4000.0
+40,Mc,hand sanitizer,11,24.0
+41,Mc,surgical mask,11,2000.0
+42,Medical,face shield,1,50.0
+43,Medical,face shield,12,20.0
+44,Medical,gloves,1,41400.0
+45,Medical,gloves,12,3300.0
+46,Medical,gowns,1,3400.0
+47,Medical,gowns,12,230.0
+48,Medical,misc,12,20.0
+49,Medical,n95,1,630.0
+50,Medical,n95,12,200.0
+51,Medical,other,1,200.0
+52,Medical,surgical mask,1,1900.0
+53,Medical,surgical mask,12,300.0
+54,Medical,testing supplies,1,130950.0
+55,Medical,testing supplies,12,2550.0
+56,Medical,thermometer,1,6.0
+57,Pod,batteries,1,120.0
+58,Pod,cradle,12,3.0
+59,Pod,disinfectant,12,40.0
+60,Pod,disinfectants,12,135.0
+61,Pod,face shield,12,806.0
+62,Pod,filters,1,360.0
+63,Pod,gloves,1,1047500.0
+64,Pod,gloves,12,44004.0
+65,Pod,hand sanitizer,12,400.0
+66,Pod,hand warmers,12,504.0
+67,Pod,ipad,12,70.0
+68,Pod,literature,1,101800.0
+69,Pod,misc,1,32725.0
+70,Pod,misc,11,10.0
+71,Pod,misc,12,209153.0
+72,Pod,needle,1,5000.0
+73,Pod,needles,1,14000.0
+74,Pod,needles,12,5000.0
+75,Pod,ponchos,1,500.0
+76,Pod,radios,1,20.0
+77,Pod,safety,12,160.0
+78,Pod,surgical mask,1,10500.0
+79,Pod,surgical mask,12,8400.0
+80,Pod,syringes,1,12000.0
+81,Pod,thermometer,12,4.0
+82,Pod,vests,1,40.0
+83,Urgetn care,face shield,11,180.0
+84,Urgetn care,gloves,11,3000.0
+85,Urgetn care,gloves,12,6000.0
+86,Urgetn care,gowns,11,600.0
+87,Urgetn care,n95,11,300.0
+88,Urgetn care,n95,12,90.0
+89,Urgetn care,sanitizer,12,18.0
+90,Urgetn care,surgical mask,11,3000.0
+91,Urgetn care,surgical mask,12,1200.0
+92,Urgetn care,testing supplies,12,1200.0
+93,county,disinfectant,5,60.0
+94,county,disinfectant,7,55.0
+95,county,disinfectant,8,6.0
+96,county,disinfectants,1,65.0
+97,county,face shield,4,1344.0
+98,county,face shield,6,10.0
+99,county,face shield,9,1000.0
+100,county,gloves,4,42000.0
+101,county,gloves,6,1000.0
+102,county,gloves,7,9000.0
+103,county,gloves,8,100.0
+104,county,gloves,9,36200.0
+105,county,gowns,4,2358.0
+106,county,hand sanitizer,5,20.0
+107,county,hand sanitizer,6,10.0
+108,county,hand sanitizer,8,48.0
+109,county,hand sanitizer,9,24.0
+110,county,kn95,5,3000.0
+111,county,kn95,6,1000.0
+112,county,misc,1,299.0
+113,county,misc,6,18.0
+114,county,misc,8,60.0
+115,county,misc,9,630.0
+116,county,n95,3,570.0
+117,county,n95,4,1440.0
+118,county,n95,7,2600.0
+119,county,reusable masks,5,10000.0
+120,county,reusable masks,6,1350.0
+121,county,reusable masks,8,500.0
+122,county,stat paq,3,2.0
+123,county,surgical mask,3,19200.0
+124,county,surgical mask,4,13850.0
+125,county,surgical mask,5,5000.0
+126,county,surgical mask,6,4050.0
+127,county,surgical mask,7,10000.0
+128,county,testing supplies,8,3000.0
+129,county,testing supplies,9,4000.0
+130,county,thermometers,3,350.0
+131,county,thermometers,4,322.0
+132,county,thermometers,7,300.0
+133,county,thermometers,8,100.0
+134,ems/fire/law enforcement,alt. gowns,6,1000.0
+135,ems/fire/law enforcement,disinfectant,8,15.0
+136,ems/fire/law enforcement,disinfectant,9,112.0
+137,ems/fire/law enforcement,face shield,4,1608.0
+138,ems/fire/law enforcement,face shield,6,200.0
+139,ems/fire/law enforcement,face shield,7,600.0
+140,ems/fire/law enforcement,gloves,3,14000.0
+141,ems/fire/law enforcement,gloves,4,19800.0
+142,ems/fire/law enforcement,gloves,5,1000.0
+143,ems/fire/law enforcement,gloves,6,1200.0
+144,ems/fire/law enforcement,gloves,7,16900.0
+145,ems/fire/law enforcement,gloves,9,1000.0
+146,ems/fire/law enforcement,gloves,11,2200.0
+147,ems/fire/law enforcement,gloves,12,1600.0
+148,ems/fire/law enforcement,goggles,5,704.0
+149,ems/fire/law enforcement,goggles,6,444.0
+150,ems/fire/law enforcement,goggles,7,400.0
+151,ems/fire/law enforcement,gowns,3,110.0
+152,ems/fire/law enforcement,gowns,4,2652.0
+153,ems/fire/law enforcement,gowns,5,760.0
+154,ems/fire/law enforcement,gowns,6,1000.0
+155,ems/fire/law enforcement,hand sanitizer,5,5.0
+156,ems/fire/law enforcement,hand sanitizer,9,48.0
+157,ems/fire/law enforcement,kn95,7,80080.0
+158,ems/fire/law enforcement,misc,1,100.0
+159,ems/fire/law enforcement,n95,3,3578.0
+160,ems/fire/law enforcement,n95,4,7000.0
+161,ems/fire/law enforcement,n95,5,2700.0
+162,ems/fire/law enforcement,n95,6,200.0
+163,ems/fire/law enforcement,n95,7,1900.0
+164,ems/fire/law enforcement,n95,10,400.0
+165,ems/fire/law enforcement,n95,11,200.0
+166,ems/fire/law enforcement,n95,12,500.0
+167,ems/fire/law enforcement,reusable masks,5,6000.0
+168,ems/fire/law enforcement,stat paq,3,141.0
+169,ems/fire/law enforcement,surgical mask,3,550.0
+170,ems/fire/law enforcement,surgical mask,4,16050.0
+171,ems/fire/law enforcement,surgical mask,5,1000.0
+172,ems/fire/law enforcement,surgical mask,6,500.0
+173,ems/fire/law enforcement,surgical mask,9,2000.0
+174,ems/fire/law enforcement,surgical mask,11,300.0
+175,ems/fire/law enforcement,testing supplies,1,24680.0
+176,ems/fire/law enforcement,testing supplies,7,120.0
+177,ems/fire/law enforcement,testing supplies,8,10.0
+178,ems/fire/law enforcement,testing supplies,11,480.0
+179,ems/fire/law enforcement,testing supplies,12,6920.0
+180,ems/fire/law enforcement,thermometer,11,10.0
+181,ems/fire/law enforcement,ventilator,1,6.0
+182,ems/fire/law enforcement,ventilator,12,10.0
+183,ems/fire/law enforcement,ventilator  ,12,5.0
+184,ems/fire/law enforcement,ventilator supplies,1,617.0
+185,ems/fire/law enforcement,ventilator supplies,12,2224.0
+186,ems/fire/law enforcement,ventilators,7,136.0
+187,fqhc/community health center,face shield,1,80.0
+188,fqhc/community health center,face shield,7,5000.0
+189,fqhc/community health center,face shield,10,40.0
+190,fqhc/community health center,face shield,12,80.0
+191,fqhc/community health center,gloves,1,1100.0
+192,fqhc/community health center,gloves,3,600.0
+193,fqhc/community health center,gloves,10,10000.0
+194,fqhc/community health center,gloves,12,1500.0
+195,fqhc/community health center,goggles,7,960.0
+196,fqhc/community health center,gowns,1,90.0
+197,fqhc/community health center,gowns,7,7200.0
+198,fqhc/community health center,gowns,10,40.0
+199,fqhc/community health center,gowns,12,160.0
+200,fqhc/community health center,n95,1,80.0
+201,fqhc/community health center,n95,3,720.0
+202,fqhc/community health center,n95,7,200.0
+203,fqhc/community health center,n95,10,400.0
+204,fqhc/community health center,n95,12,40.0
+205,fqhc/community health center,sanitizer,7,4.0
+206,fqhc/community health center,sanitizer,10,200.0
+207,fqhc/community health center,surgical mask,7,5000.0
+208,fqhc/community health center,surgical mask,9,500.0
+209,fqhc/community health center,surgical mask,10,1250.0
+210,fqhc/community health center,testing supplies,8,240.0
+211,fqhc/community health center,testing supplies,9,2000.0
+212,home health,alt. gowns,8,1000.0
+213,home health,face shield,6,450.0
+214,home health,face shield,7,136.0
+215,home health,face shield,9,1600.0
+216,home health,face shield,10,1630.0
+217,home health,gloves,6,800.0
+218,home health,gloves,7,2100.0
+219,home health,gloves,9,55600.0
+220,home health,gloves,10,141700.0
+221,home health,gowns,6,260.0
+222,home health,gowns,7,600.0
+223,home health,gowns,9,2150.0
+224,home health,gowns,10,2030.0
+225,home health,n95,6,500.0
+226,home health,n95,7,900.0
+227,home health,n95,9,2560.0
+228,home health,n95,10,2720.0
+229,home health,sanitizer,8,48.0
+230,home health,surgical mask,6,3700.0
+231,home health,surgical mask,7,1950.0
+232,home health,surgical mask,9,11250.0
+233,home health,surgical mask,10,10100.0
+234,hospital,alt. gowns,3,58.0
+235,hospital,alt. gowns,4,55.0
+236,hospital,alt. gowns,12,5000.0
+237,hospital,disinfectant,6,1.0
+238,hospital,face shield,1,402.0
+239,hospital,face shield,3,9384.0
+240,hospital,face shield,4,840.0
+241,hospital,face shield,6,1120.0
+242,hospital,face shield,7,620.0
+243,hospital,face shield,9,450.0
+244,hospital,face shield,12,500.0
+245,hospital,gloves,1,3000.0
+246,hospital,gloves,3,41400.0
+247,hospital,gloves,4,900.0
+248,hospital,gloves,6,38200.0
+249,hospital,gloves,7,4400.0
+250,hospital,gloves,9,13000.0
+251,hospital,gloves,12,10800.0
+252,hospital,goggles,6,900.0
+253,hospital,goggles,9,60.0
+254,hospital,gowns,1,300.0
+255,hospital,gowns,3,10620.0
+256,hospital,gowns,4,222.0
+257,hospital,gowns,6,1900.0
+258,hospital,gowns,7,1030.0
+259,hospital,gowns,8,50.0
+260,hospital,gowns,9,200.0
+261,hospital,gowns,12,2850.0
+262,hospital,hand sanitizer,6,30.0
+263,hospital,kn95,5,10000.0
+264,hospital,n95,1,300.0
+265,hospital,n95,3,29780.0
+266,hospital,n95,4,2800.0
+267,hospital,n95,6,140.0
+268,hospital,n95,7,310.0
+269,hospital,n95,8,200.0
+270,hospital,n95,9,600.0
+271,hospital,n95,12,360.0
+272,hospital,surgical mask,1,3000.0
+273,hospital,surgical mask,3,34250.0
+274,hospital,surgical mask,4,2650.0
+275,hospital,surgical mask,6,2400.0
+276,hospital,surgical mask,7,3400.0
+277,hospital,surgical mask,9,1500.0
+278,hospital,surgical mask,12,600.0
+279,hospital,testing supplies,1,6400.0
+280,hospital,testing supplies,8,3400.0
+281,hospital,testing supplies,9,60.0
+282,hospital,testing supplies,10,300.0
+283,hospital,ventilators,7,181.0
+284,jurisdiction,container,11,260.0
+285,jurisdiction,disinfectant,5,100.0
+286,jurisdiction,face shield,5,984.0
+287,jurisdiction,gloves,4,4500.0
+288,jurisdiction,gloves,5,2500.0
+289,jurisdiction,gloves,7,200.0
+290,jurisdiction,gloves,9,200.0
+291,jurisdiction,gloves,10,6900.0
+292,jurisdiction,gloves,11,54100.0
+293,jurisdiction,gowns,5,108.0
+294,jurisdiction,gowns,7,500.0
+295,jurisdiction,gowns,9,150.0
+296,jurisdiction,gowns,10,150.0
+297,jurisdiction,misc,9,600.0
+298,jurisdiction,misc,10,0.0
+299,jurisdiction,n95,4,2010.0
+300,jurisdiction,n95,5,1000.0
+301,jurisdiction,other items,7,1000.0
+302,jurisdiction,reusable masks,10,9000.0
+303,jurisdiction,reusable masks,11,197385.0
+304,jurisdiction,sheet,11,290.0
+305,jurisdiction,surgical mask,4,4000.0
+306,jurisdiction,surgical mask,5,6000.0
+307,jurisdiction,surgical mask,10,6000.0
+308,jurisdiction,surgical mask,11,3000.0
+309,jurisdiction,thermometer,11,100.0
+310,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,1,9230.0
+311,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,4,1050.0
+312,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,5,1675.0
+313,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,6,2100.0
+314,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,7,5189.0
+315,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,8,1395.0
+316,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,9,700.0
+317,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,10,6450.0
+318,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,11,200.0
+319,long term care/assisted care/group home/skilled nursing/hospice,alt. gowns,12,2080.0
+320,long term care/assisted care/group home/skilled nursing/hospice,bag,12,200.0
+321,long term care/assisted care/group home/skilled nursing/hospice,coveralls,7,200.0
+322,long term care/assisted care/group home/skilled nursing/hospice,disinfectant,6,8.0
+323,long term care/assisted care/group home/skilled nursing/hospice,disinfectant,7,4.0
+324,long term care/assisted care/group home/skilled nursing/hospice,disinfectant,9,3.0
+325,long term care/assisted care/group home/skilled nursing/hospice,disinfectants,1,7.0
+326,long term care/assisted care/group home/skilled nursing/hospice,face shield,1,73895.0
+327,long term care/assisted care/group home/skilled nursing/hospice,face shield,2,930.0
+328,long term care/assisted care/group home/skilled nursing/hospice,face shield,3,1152.0
+329,long term care/assisted care/group home/skilled nursing/hospice,face shield,4,14056.0
+330,long term care/assisted care/group home/skilled nursing/hospice,face shield,5,7810.0
+331,long term care/assisted care/group home/skilled nursing/hospice,face shield,6,6522.0
+332,long term care/assisted care/group home/skilled nursing/hospice,face shield,7,3465.0
+333,long term care/assisted care/group home/skilled nursing/hospice,face shield,9,550.0
+334,long term care/assisted care/group home/skilled nursing/hospice,face shield,10,41830.0
+335,long term care/assisted care/group home/skilled nursing/hospice,face shield,11,20906.0
+336,long term care/assisted care/group home/skilled nursing/hospice,face shield,12,59760.0
+337,long term care/assisted care/group home/skilled nursing/hospice,glasses,12,200.0
+338,long term care/assisted care/group home/skilled nursing/hospice,gloves,1,1872400.0
+339,long term care/assisted care/group home/skilled nursing/hospice,gloves,2,27000.0
+340,long term care/assisted care/group home/skilled nursing/hospice,gloves,3,2300.0
+341,long term care/assisted care/group home/skilled nursing/hospice,gloves,4,95700.0
+342,long term care/assisted care/group home/skilled nursing/hospice,gloves,5,211850.0
+343,long term care/assisted care/group home/skilled nursing/hospice,gloves,6,101000.0
+344,long term care/assisted care/group home/skilled nursing/hospice,gloves,7,85900.0
+345,long term care/assisted care/group home/skilled nursing/hospice,gloves,8,8000.0
+346,long term care/assisted care/group home/skilled nursing/hospice,gloves,9,116250.0
+347,long term care/assisted care/group home/skilled nursing/hospice,gloves,10,181950.0
+348,long term care/assisted care/group home/skilled nursing/hospice,gloves,11,332330.0
+349,long term care/assisted care/group home/skilled nursing/hospice,gloves,12,957500.0
+350,long term care/assisted care/group home/skilled nursing/hospice,goggles,1,150.0
+351,long term care/assisted care/group home/skilled nursing/hospice,goggles,5,194.0
+352,long term care/assisted care/group home/skilled nursing/hospice,goggles,6,504.0
+353,long term care/assisted care/group home/skilled nursing/hospice,goggles,7,750.0
+354,long term care/assisted care/group home/skilled nursing/hospice,goggles,8,90.0
+355,long term care/assisted care/group home/skilled nursing/hospice,goggles,9,240.0
+356,long term care/assisted care/group home/skilled nursing/hospice,goggles,10,120.0
+357,long term care/assisted care/group home/skilled nursing/hospice,goggles,12,120.0
+358,long term care/assisted care/group home/skilled nursing/hospice,gown,11,2440.0
+359,long term care/assisted care/group home/skilled nursing/hospice,gown,12,7650.0
+360,long term care/assisted care/group home/skilled nursing/hospice,gowns,1,152170.0
+361,long term care/assisted care/group home/skilled nursing/hospice,gowns,2,730.0
+362,long term care/assisted care/group home/skilled nursing/hospice,gowns,3,1386.0
+363,long term care/assisted care/group home/skilled nursing/hospice,gowns,4,26192.0
+364,long term care/assisted care/group home/skilled nursing/hospice,gowns,5,11572.0
+365,long term care/assisted care/group home/skilled nursing/hospice,gowns,6,36276.0
+366,long term care/assisted care/group home/skilled nursing/hospice,gowns,7,42390.0
+367,long term care/assisted care/group home/skilled nursing/hospice,gowns,8,21875.0
+368,long term care/assisted care/group home/skilled nursing/hospice,gowns,9,17618.0
+369,long term care/assisted care/group home/skilled nursing/hospice,gowns,10,46010.0
+370,long term care/assisted care/group home/skilled nursing/hospice,gowns,11,77248.0
+371,long term care/assisted care/group home/skilled nursing/hospice,gowns,12,163527.0
+372,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,4,9.0
+373,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,5,47.0
+374,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,6,19.0
+375,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,7,14.0
+376,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,10,24.0
+377,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,11,100.0
+378,long term care/assisted care/group home/skilled nursing/hospice,hand sanitizer,12,13.0
+379,long term care/assisted care/group home/skilled nursing/hospice,kn95,5,600.0
+380,long term care/assisted care/group home/skilled nursing/hospice,kn95,11,300.0
+381,long term care/assisted care/group home/skilled nursing/hospice,mask,1,10008.0
+382,long term care/assisted care/group home/skilled nursing/hospice,misc,5,50.0
+383,long term care/assisted care/group home/skilled nursing/hospice,misc,6,280.0
+384,long term care/assisted care/group home/skilled nursing/hospice,n95,1,155800.0
+385,long term care/assisted care/group home/skilled nursing/hospice,n95,2,10280.0
+386,long term care/assisted care/group home/skilled nursing/hospice,n95,3,3070.0
+387,long term care/assisted care/group home/skilled nursing/hospice,n95,4,19770.0
+388,long term care/assisted care/group home/skilled nursing/hospice,n95,5,12790.0
+389,long term care/assisted care/group home/skilled nursing/hospice,n95,6,14510.0
+390,long term care/assisted care/group home/skilled nursing/hospice,n95,7,25730.0
+391,long term care/assisted care/group home/skilled nursing/hospice,n95,8,4873.0
+392,long term care/assisted care/group home/skilled nursing/hospice,n95,9,16845.0
+393,long term care/assisted care/group home/skilled nursing/hospice,n95,10,36380.0
+394,long term care/assisted care/group home/skilled nursing/hospice,n95,11,58816.0
+395,long term care/assisted care/group home/skilled nursing/hospice,n95,12,153145.0
+396,long term care/assisted care/group home/skilled nursing/hospice,other items,1,900.0
+397,long term care/assisted care/group home/skilled nursing/hospice,other items,7,1000.0
+398,long term care/assisted care/group home/skilled nursing/hospice,other items,8,1300.0
+399,long term care/assisted care/group home/skilled nursing/hospice,other items,9,30000.0
+400,long term care/assisted care/group home/skilled nursing/hospice,other items,12,800.0
+401,long term care/assisted care/group home/skilled nursing/hospice,sanitizer,1,14158.0
+402,long term care/assisted care/group home/skilled nursing/hospice,sanitizer,2,27.0
+403,long term care/assisted care/group home/skilled nursing/hospice,sanitizer,7,39.0
+404,long term care/assisted care/group home/skilled nursing/hospice,sanitizer,10,2959.0
+405,long term care/assisted care/group home/skilled nursing/hospice,sanitizer,11,7500.0
+406,long term care/assisted care/group home/skilled nursing/hospice,sanitizer,12,1788.0
+407,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,1,230810.0
+408,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,2,14500.0
+409,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,3,7750.0
+410,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,4,59700.0
+411,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,5,31300.0
+412,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,6,92080.0
+413,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,7,21150.0
+414,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,8,6500.0
+415,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,9,22050.0
+416,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,10,154200.0
+417,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,11,208570.0
+418,long term care/assisted care/group home/skilled nursing/hospice,surgical mask,12,197035.0
+419,long term care/assisted care/group home/skilled nursing/hospice,test,1,960.0
+420,long term care/assisted care/group home/skilled nursing/hospice,test,11,2000.0
+421,long term care/assisted care/group home/skilled nursing/hospice,test,12,2680.0
+422,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,1,178733.0
+423,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,7,400.0
+424,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,8,5885.0
+425,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,9,7310.0
+426,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,10,23391.0
+427,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,11,165413.0
+428,long term care/assisted care/group home/skilled nursing/hospice,testing supplies,12,388792.0
+429,long term care/assisted care/group home/skilled nursing/hospice,testing suppliesing supplies,8,50.0
+430,long term care/assisted care/group home/skilled nursing/hospice,thermometer,1,9.0
+431,long term care/assisted care/group home/skilled nursing/hospice,thermometer,12,4.0
+432,long term care/assisted care/group home/skilled nursing/hospice,wipes,12,2.0
+433,other,alt. gowns,6,1350.0
+434,other,alt. gowns,7,500.0
+435,other,alt. gowns,8,4525.0
+436,other,alt. gowns,9,3000.0
+437,other,disinfectant,6,7.0
+438,other,disinfectant,8,16.0
+439,other,disinfectants,12,10.0
+440,other,face shield,1,648.0
+441,other,face shield,5,48.0
+442,other,face shield,6,2001.0
+443,other,face shield,7,800.0
+444,other,face shield,8,2000.0
+445,other,face shield,9,18400.0
+446,other,face shield,10,4000.0
+447,other,face shield,12,1100.0
+448,other,gloves,1,147200.0
+449,other,gloves,5,3100.0
+450,other,gloves,6,10200.0
+451,other,gloves,7,600.0
+452,other,gloves,8,23300.0
+453,other,gloves,9,75500.0
+454,other,gloves,10,47900.0
+455,other,gloves,11,7403.0
+456,other,gloves,12,18100.0
+457,other,goggles,6,24.0
+458,other,goggles,7,2800.0
+459,other,goggles,8,2610.0
+460,other,goggles,9,300.0
+461,other,goggles,12,900.0
+462,other,gowns,1,2500.0
+463,other,gowns,5,50.0
+464,other,gowns,6,11347.0
+465,other,gowns,7,6800.0
+466,other,gowns,8,3695.0
+467,other,gowns,9,430.0
+468,other,gowns,10,2930.0
+469,other,gowns,12,1200.0
+470,other,hand sanitizer,5,10.0
+471,other,hand sanitizer,6,22.0
+472,other,hand sanitizer,8,6.0
+473,other,kn95,5,12790.0
+474,other,kn95,7,80080.0
+475,other,misc,1,106.0
+476,other,misc,6,200.0
+477,other,n95,1,3560.0
+478,other,n95,5,40.0
+479,other,n95,6,3210.0
+480,other,n95,7,1800.0
+481,other,n95,8,720.0
+482,other,n95,9,2200.0
+483,other,n95,10,12140.0
+484,other,n95,11,20060.0
+485,other,n95,12,1350.0
+486,other,needle,1,100.0
+487,other,other items,8,303.0
+488,other,other items,9,15.0
+489,other,reusable masks,5,5000.0
+490,other,reusable masks,6,500.0
+491,other,reusable masks,8,5000.0
+492,other,reusable masks,10,14000.0
+493,other,sanitizer,8,6048.0
+494,other,sanitizer,9,20.0
+495,other,sanitizer,10,10.0
+496,other,sanitizer,11,18.0
+497,other,stat paq,6,200.0
+498,other,surgical mask,1,37100.0
+499,other,surgical mask,5,2900.0
+500,other,surgical mask,6,29100.0
+501,other,surgical mask,8,10500.0
+502,other,surgical mask,9,14900.0
+503,other,surgical mask,10,42450.0
+504,other,surgical mask,11,22925.0
+505,other,surgical mask,12,11540.0
+506,other,syringes,1,100.0
+507,other,testing supplies,1,13880.0
+508,other,testing supplies,7,1260.0
+509,other,testing supplies,8,3120.0
+510,other,testing supplies,9,600.0
+511,other,testing supplies,10,1765.0
+512,other,testing supplies,11,1000.0
+513,other,testing supplies,12,3000.0
+514,other,thermometer,10,4.0
+515,other,thermometer,12,60.0
+516,private practice,face shield,4,24.0
+517,private practice,face shield,5,202.0
+518,private practice,face shield,6,166.0
+519,private practice,face shield,7,10.0
+520,private practice,face shield,10,530.0
+521,private practice,gloves,5,2700.0
+522,private practice,gloves,6,2300.0
+523,private practice,gloves,7,5400.0
+524,private practice,gloves,8,4000.0
+525,private practice,gloves,10,1000.0
+526,private practice,goggles,10,1000.0
+527,private practice,gowns,4,18.0
+528,private practice,gowns,5,206.0
+529,private practice,gowns,6,270.0
+530,private practice,gowns,7,140.0
+531,private practice,gowns,10,650.0
+532,private practice,n95,3,240.0
+533,private practice,n95,4,30.0
+534,private practice,n95,5,280.0
+535,private practice,n95,6,640.0
+536,private practice,n95,7,760.0
+537,private practice,n95,10,600.0
+538,private practice,surgical mask,3,100.0
+539,private practice,surgical mask,4,50.0
+540,private practice,surgical mask,5,650.0
+541,private practice,surgical mask,6,3150.0
+542,private practice,surgical mask,7,2100.0
+543,private practice,surgical mask,10,1200.0
+544,school,alt. gowns,8,10.0
+545,school,disinfectant,8,77.0
+546,school,disinfectant,9,176.0
+547,school,disinfectant,11,9.0
+548,school,disinfectants,1,2186.0
+549,school,disinfectants,11,8.0
+550,school,disinfectants,12,35.0
+551,school,face shield,1,1024.0
+552,school,face shield,10,5620.0
+553,school,face shield,11,1180.0
+554,school,face shield,12,1190.0
+555,school,gloves,1,13300.0
+556,school,gloves,9,11000.0
+557,school,gloves,10,86800.0
+558,school,gloves,11,17850.0
+559,school,gloves,12,14850.0
+560,school,gown,11,10.0
+561,school,gowns,1,450.0
+562,school,gowns,10,5305.0
+563,school,gowns,11,520.0
+564,school,gowns,12,560.0
+565,school,hand sanitizer,9,3280.0
+566,school,hand sanitizer,10,1540.0
+567,school,hand sanitizer,11,83.0
+568,school,misc,12,6.0
+569,school,n95,1,2361.0
+570,school,n95,8,20.0
+571,school,n95,9,20.0
+572,school,n95,10,6520.0
+573,school,n95,11,6570.0
+574,school,n95,12,4720.0
+575,school,other items,11,30.0
+576,school,reusable masks,5,5000.0
+577,school,reusable masks,8,70000.0
+578,school,reusable masks,9,3300.0
+579,school,reusable masks,10,5580.0
+580,school,sanitizer,1,1262.0
+581,school,sanitizer,8,10.0
+582,school,sanitizer,9,260.0
+583,school,sanitizer,10,1849.0
+584,school,sanitizer,11,906.0
+585,school,sanitizer,12,400.0
+586,school,surgical mask,1,437875.0
+587,school,surgical mask,10,58130.0
+588,school,surgical mask,11,138170.0
+589,school,surgical mask,12,248476.0
+590,school,testing supplies,1,1720.0
+591,school,testing supplies,9,250.0
+592,school,testing supplies,10,690.0
+593,school,testing supplies,11,2220.0
+594,school,testing supplies,12,8440.0
+595,school,thermometer,1,60.0

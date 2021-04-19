@@ -1,0 +1,665 @@
+,Date1,City,Facility
+0,2020-11-10 00:00:00,Scottsdale,International School of Arizona
+1,2020-11-10 00:00:00,Phoenix,The Tungland Corporation
+2,2020-11-10 00:00:00,Glendale,Southwest Key Program 
+3,2020-11-10 00:00:00,Mesa,Mountain Vista Medical Center
+4,2020-11-09 00:00:00,Phoenix,Arizona Medical Association
+5,2020-11-09 00:00:00,Scottsdale,Shea Post Acute
+6,2020-11-09 00:00:00,Phoenix,"Creative Innervisions, LLC"
+7,2020-11-09 00:00:00,Phoenix,Khalsa Montessori Primary School
+8,2020-11-09 00:00:00,Mesa,Desert Blossom Health and Rehab
+9,2020-11-09 00:00:00,Peoria,Rio Vista Post Acute
+10,2020-11-09 00:00:00,Scottsdale,The Gardens of Scottsdale
+11,2020-11-09 00:00:00,Chandler,Arizona Boiler Inspectors
+12,2020-11-09 00:00:00,Surprise,Sante of Surprise
+13,2020-11-09 00:00:00,Phoenix,Alhambra Elementary School District
+14,2020-11-09 00:00:00,Phoenix,Khalsa Montessori School
+15,2020-11-09 00:00:00,Phoenix,MCDPH
+16,2020-11-09 00:00:00,Mesa,Southwest Key Programs- Casa Kokopelli
+17,2020-11-06 00:00:00,Mesa,Allegiant Healthcare of Mesa
+18,2020-11-06 00:00:00,Peoria,Pacifica Senior Living Peoria
+19,2020-11-06 00:00:00,Scottsdale,Scottsdale Memory Care
+20,2020-11-06 00:00:00,Surprise,Avenir Surprise Memory Care
+21,2020-11-06 00:00:00,Phoenix,Desert Haven
+22,2020-11-06 00:00:00,Surprise,Success School
+23,2020-11-05 00:00:00,Phoenix,Pleasant Stay Care Home
+24,2020-11-05 00:00:00,Phoenix,Christian Care Health Center
+25,2020-11-05 00:00:00,Phoenix,Circle the City
+26,2020-11-05 00:00:00,Phoenix,Arizona State Hospital
+27,2020-11-05 00:00:00,Gila Bend,Paloma Elementary School District #94
+28,2020-11-05 00:00:00,Gilbert,Higley Unified School District #60
+29,2020-11-05 00:00:00,Phoenix,Park Terrace at Greenway
+30,2020-11-05 00:00:00,Phoenix,Phoenix VA HCS
+31,2020-11-05 00:00:00,Peoria,Student Choice High School
+32,2020-11-05 00:00:00,Mesa,"Step Up Schools, Inc."
+33,2020-11-04 00:00:00,Phoenix,Southwest Key - Casa Campbell
+34,2020-11-04 00:00:00,Mesa,Labrad Diagnostics
+35,2020-11-04 00:00:00,Phoenix,Cartwright School District #83
+36,2020-11-04 00:00:00,Mesa,Southern Arizona Health Services Phoenix
+37,2020-11-04 00:00:00,Sun City,SunWest Choice Healthcare and Rehab
+38,2020-11-04 00:00:00,Gilbert,Leading Edge Academy
+39,2020-11-04 00:00:00,Gilbert,Gilbert Assisted Living
+40,2020-11-04 00:00:00,Scottsdale,Heritage Court Post Acute of Scottsdale 
+41,2020-11-04 00:00:00,phoenix,4041 6th floor emergency binax supply
+42,2020-11-04 00:00:00,Scottsdale,Osborn Health and Rehab
+43,2020-11-04 00:00:00,Phoenix,Phoenix Mountain Post-Acute
+44,2020-11-04 00:00:00,Phoenix,Park Terrace at Greenway
+45,2020-11-03 00:00:00,Litchfield Park,Litchfield Elementary School District 
+46,2020-11-03 00:00:00,Phoenix,Destiny Sober Living 
+47,2020-11-03 00:00:00,Paradise Valley,Southwellness
+48,2020-11-03 00:00:00,Phoenix,Southwest Key Programs Casa Fortaleza
+49,2020-11-03 00:00:00,Peoria,Rio Vista Post Acute
+50,2020-11-03 00:00:00,Phoenix,Thema Health Services
+51,2020-11-03 00:00:00,Peoria,The Mission at Agua Fria
+52,2020-11-03 00:00:00,Chandler,Chandler Memory Care
+53,2020-11-03 00:00:00,Phoenix,Circle the City
+54,2020-11-03 00:00:00,Phoenix,Roosevelt School District #66
+55,2020-11-02 00:00:00,Scottsdale,LivGenerations Pinnacle Peak
+56,2020-11-02 00:00:00,Phoenix,LivGenerations Ahwatukee
+57,2020-11-02 00:00:00,Scottsdale,The Springs of Scottsdale
+58,2020-11-02 00:00:00,Gilbert,LivGenerations Agritopia
+59,2020-11-02 00:00:00,Phoenix,Cactus Star Assisted Living Home
+60,2020-11-02 00:00:00,Phoenix,Beatitudes Campus Assisted Living
+61,2020-11-02 00:00:00,Fountain Hills,Fountain Hills School District #98
+62,2020-11-02 00:00:00,Mesa,Montecito Post Acute
+63,2020-11-02 00:00:00,Paradise Valley,Phoenix Country Day School
+64,2020-11-02 00:00:00,Sun City West,Grandview Terrace Health and Rehab
+65,2020-11-02 00:00:00,Sun City West,Grandview Terrace AL
+66,2020-11-02 00:00:00,Surprise,Destiny Springs Healthcare 
+67,2020-10-30 00:00:00,Guadalupe,Town of Guadalupe
+68,2020-10-30 00:00:00,Scottsdale,Osborn Health and Rehabilitation
+69,2020-10-30 00:00:00,Phoenix,Best Care Home of Moon Valley
+70,2020-10-30 00:00:00,Surprise,Destiny Springs Healthcare 
+71,2020-10-30 00:00:00,Goodyear,"New Vision Behavioral Health & Wellness, LLC"
+72,2020-10-30 00:00:00,Phoenix,Maricopa County Department of Public Health (CCHC)
+73,2020-10-30 00:00:00,Surprise,The Oasis - Surprise Campus
+74,2020-10-30 00:00:00,Phoenix,Maggie's Place
+75,2020-10-30 00:00:00,Avondale,La Loma Internal Medicine and Pediatrics
+76,2020-10-29 00:00:00,Scottsdale,Affordable Home Care
+77,2020-10-29 00:00:00,Gilbert,Eternal Spring of Gilbert
+78,2020-10-29 00:00:00,Scottsdale,Bowerman Homestead Medical 
+79,2020-10-29 00:00:00,Mesa,Visions Assisted Living of Mesa
+80,2020-10-29 00:00:00,Phoenix,Arizona Medical Association
+81,2020-10-29 00:00:00,Peoria,Immanuel Campus of Care
+82,2020-10-29 00:00:00,Gilbert,Quail Park At Morrison Ranch
+83,2020-10-29 00:00:00,Gilbert,Sunrise At Gilbert
+84,2020-10-29 00:00:00,Gilbert,Public Charter School Organization
+85,2020-10-29 00:00:00,Phoenix ,MCDPH
+86,2020-10-29 00:00:00,Phoenix,Maricopa County Department of Public Health (CCHC)
+87,2020-10-29 00:00:00,Phoenix,Destiny Sober Living
+88,2020-10-28 00:00:00,Mesa,Arbor Rose Senior Care
+89,2020-10-28 00:00:00,Phoenix,Town of Guadalupe 
+90,2020-10-28 00:00:00,Phoenix,Allegiant of Phoenix
+91,2020-10-28 00:00:00,Paradise Valley,Southwellness
+92,2020-10-28 00:00:00,Chandler,Archstone Care Center
+93,2020-10-28 00:00:00,Sun City,Grandview Health and Rehab
+94,2020-10-28 00:00:00,Mesa,East Valley Hospice 
+95,2020-10-28 00:00:00,Maricopa ,Mobile Elementary School District #86
+96,2020-10-28 00:00:00,Phoenix,Arizona Knowledge Empowerment and Advocacy Group
+97,2020-10-28 00:00:00,Phoenix,Lutheran Social Services
+98,2020-10-28 00:00:00,Glendale,Lenzmeier Family Medicine 
+99,2020-10-28 00:00:00,Scottsdale,The Ranch Estates At Scottsdale
+100,2020-10-28 00:00:00,Scottsdale,Scottsdale Village Square
+101,2020-10-28 00:00:00,Scottsdale,The Gardens of Scottsdale
+102,2020-10-28 00:00:00,Sun City,Sun Valley Lodge
+103,2020-10-28 00:00:00,Phoenix,Windsor Maryland Gardens
+104,2020-10-28 00:00:00,Phoenix,Rose Court Senior Living 
+105,2020-10-28 00:00:00,Goodyear,Robson Reserve at Pebblecreek
+106,2020-10-28 00:00:00,Peoria,IMMANUEL CAMPUS OF CARE
+107,2020-10-28 00:00:00,Phoenix,Acacia Health Center
+108,2020-10-28 00:00:00,Mesa,Copper Village Assisted Living
+109,2020-10-28 00:00:00,Chandler,North Chandler - A Continuum of Care Community
+110,2020-10-28 00:00:00,Scottsdale,"VI AT SILVERSTONE, A VI & PLAZA COMPANIES COMMUNITY"
+111,2020-10-28 00:00:00,Glendale,Amarsi Assisted Living
+112,2020-10-28 00:00:00,Scottsdale,"VI AT GRAYHAWK, A VI AND PLAZA COMPANIES COMMUNITY"
+113,2020-10-28 00:00:00,Scottsdale,The Springs of Scottsdale
+114,2020-10-28 00:00:00,Youngtown,Ventana Winds Assisted Living Center
+115,2020-10-27 00:00:00,Glendale,Brookdale North Glendale
+116,2020-10-27 00:00:00,Phoenix,Encanto Palms Assisted Living
+117,2020-10-27 00:00:00,Gilbert,Leading Edge Academy
+118,2020-10-27 00:00:00,Phoenix,Circle the City
+119,2020-10-27 00:00:00,Avondale,Bridgewater Assisted Living Avondale
+120,2020-10-27 00:00:00,Peoria ,The Mission at Agua Fria 
+121,2020-10-27 00:00:00,Phoenix,Arizona Cultural Academy
+122,2020-10-27 00:00:00,Phoenix,Park Terrace At Greenway
+123,2020-10-27 00:00:00,Phoenix ,Diocese of Phoenix
+124,2020-10-27 00:00:00,Phoenix,Equality Health Foundation
+125,2020-10-27 00:00:00,Phoenix,Wellsprings of Phoenix 
+126,2020-10-27 00:00:00,Phoenix,Beatitudes Health Center
+127,2020-10-27 00:00:00,Phoenix,La Siena
+128,2020-10-26 00:00:00,Scottsdale,The Ranch Estates at Scottsdale
+129,2020-10-26 00:00:00,Phoenix,Desert Haven Care Center
+130,2020-10-26 00:00:00,Phoenix,Maggie's Place
+131,2020-10-26 00:00:00,Mesa,American Leadership Academy
+132,2020-10-26 00:00:00,Phoenix,Roosevelt School District #66
+133,2020-10-26 00:00:00,Laveen,"Our Home of Unity, LLC"
+134,2020-10-26 00:00:00,Scottsdale,Mimosa Springs
+135,2020-10-26 00:00:00,Surprise,"Sun Health, The Colonnade"
+136,2020-10-26 00:00:00,Mesa,Springdale Village
+137,2020-10-26 00:00:00,Tempe,Tempe Post Acute
+138,2020-10-26 00:00:00,Gilbert,QUAIL PARK AT MORRISON RANCH
+139,2020-10-23 00:00:00,Youngtown,Casa Amanecer
+140,2020-10-23 00:00:00,Phoenix,Pendergast Elementary School District
+141,2020-10-23 00:00:00,Litchfield Park,Sun Health La Loma Village
+142,2020-10-23 00:00:00,Mesa,Southwest Key Programs Casa Kokopelli
+143,2020-10-23 00:00:00,Glendale,"Camelback Education, Inc."
+144,2020-10-23 00:00:00,Surprise,Peach Tree Assisted Living
+145,2020-10-23 00:00:00,Phoenix,Southwest Key Programs Casa Fortaleze
+146,2020-10-23 00:00:00,Litchfield Park,La Loma Assisted Living
+147,2020-10-23 00:00:00,Phoenix,Christian Care AL
+148,2020-10-23 00:00:00,Phoenix,Maricopa County Department of Public Health (CWHP)
+149,2020-10-22 00:00:00,Phoenix,Haven of Phoenix
+150,2020-10-22 00:00:00,Mesa,Fellowship Square Mesa
+151,2020-10-22 00:00:00,Phoenix,Team Select Home Care
+152,2020-10-22 00:00:00,Phoenix,University of Arizona College of Public Health & Street Medicine
+153,2020-10-22 00:00:00,Phoenix,Pacifica Senior Living Paradise Valley
+154,2020-10-22 00:00:00,Phoenix,District 1/ ACDHH
+155,2020-10-22 00:00:00,Sun City,"Gardens of Sun City, The"
+156,2020-10-22 00:00:00,Mesa,Arbor Rose Senior Care
+157,2020-10-22 00:00:00,Sun City,Sun Health Grandview Assisted Living Services
+158,2020-10-22 00:00:00,Mesa ,Heritage Lane Behavioral- EAST
+159,2020-10-22 00:00:00,Phoenix,Avamere At The Stratford
+160,2020-10-22 00:00:00,Youngtown,Lifestream at Youngtown
+161,2020-10-22 00:00:00,Phoenix,Bethesda Gardens
+162,2020-10-22 00:00:00,Glendale,Manors at Glencroft
+163,2020-10-22 00:00:00,Tempe,Nunnenkamp Center Friendship Village Tempe
+164,2020-10-22 00:00:00,Tempe,Memory Care Assisted Living at Friendship Village Tempe
+165,2020-10-22 00:00:00,Mesa,Brookdale East Mesa
+166,2020-10-22 00:00:00,Gilbert,Brookdale North Gilbert
+167,2020-10-22 00:00:00,Sun City,Royal Oaks Assisted Living Center
+168,2020-10-22 00:00:00,Peoria,Pacifica Senior Living Peoria 
+169,2020-10-22 00:00:00,Glendale,Brookdale North Glendale
+170,2020-10-22 00:00:00,Surprise,Chaparral Winds Assisted Living
+171,2020-10-22 00:00:00,Phoenix,"Christian Care Assisted Living, Inc."
+172,2020-10-22 00:00:00,Phoenix,"Christian Care Manor II, Inc."
+173,2020-10-22 00:00:00,Litchfield Park,Sun Health La Loma Assisted Living
+174,2020-10-22 00:00:00,Chandler,Copper Creek Inn Memory Care Community
+175,2020-10-22 00:00:00,Glendale,Towers at Glencroft
+176,2020-10-22 00:00:00,Phoenix,The Terraces Assisted Living
+177,2020-10-22 00:00:00,Mesa,Courtyard Towers
+178,2020-10-22 00:00:00,Peoria,Desert Winds Assisted Living
+179,2020-10-22 00:00:00,Fountain Hills,Fountain View Village 
+180,2020-10-21 00:00:00,Phoenix,Basis Phoenix
+181,2020-10-21 00:00:00,Surprise,Sante of Surprise Rehab
+182,2020-10-21 00:00:00,Peoria,The Mission at Agua Fria
+183,2020-10-21 00:00:00,Avondale,Bridgewater Assisted Living Avondale
+184,2020-10-21 00:00:00,Chandler,Pennington Gardens
+185,2020-10-21 00:00:00,Surprise,Imagine Schools Rosefield
+186,2020-10-21 00:00:00,Scottsdale,Scottsdale Unified School District
+187,2020-10-21 00:00:00,Mesa,Visions Assisted Living of Mesa
+188,2020-10-21 00:00:00,Phoenix,Beatitudes Campus Assisted Living
+189,2020-10-21 00:00:00,mesa,Sage counseling
+190,2020-10-21 00:00:00,Gilbert,Benjamin Franklin Charter School
+191,2020-10-20 00:00:00,Scottsdale,Heritage Court Post Acute of Scottsdale
+192,2020-10-20 00:00:00,Mesa,Southwest Key Programs- Casa Kokopelli
+193,2020-10-20 00:00:00,Phoenix,The Family School
+194,2020-10-20 00:00:00,Phoenix,Deer Valley Unified
+195,2020-10-20 00:00:00,Phoenix,Glendale Union High School
+196,2020-10-20 00:00:00,Phoenix,Florence Crittenton
+197,2020-10-20 00:00:00,Phoenix ,Choice Academies
+198,2020-10-20 00:00:00,Tempe,Geobena Home Care Services 
+199,2020-10-20 00:00:00,Gilbert,"San Tan Montessori, Inc."
+200,2020-10-20 00:00:00,Phoenix,Murphy
+201,2020-10-19 00:00:00,Litchfield Park,Sun Health La Loma village
+202,2020-10-19 00:00:00,Chandler,New Viva Weight Loss
+203,2020-10-19 00:00:00,Phoenix,Christian Care AL
+204,2020-10-19 00:00:00,Phoenix,New World Educational Center
+205,2020-10-19 00:00:00,Phoenix,Orchid Park Care Home
+206,2020-10-19 00:00:00,Mesa,Noble Hospice
+207,2020-10-19 00:00:00,Mesa,Mission Palms Post Acute
+208,2020-10-19 00:00:00,Peoria,Happy Valley School
+209,2020-10-19 00:00:00,Mesa,Legacy Village at Mesa
+210,2020-10-16 00:00:00,Chandler,Sante of Chandler
+211,2020-10-16 00:00:00,Surprise,Paragon Management Schools
+212,2020-10-16 00:00:00,Mesa,Allegiant Springdale Village
+213,2020-10-16 00:00:00,Mesa,Alta Mesa Health and Rehab
+214,2020-10-16 00:00:00,Phoenix,Paradise Valley Unified School District #69
+215,2020-10-16 00:00:00,Mesa,Mesa Public Schools
+216,2020-10-16 00:00:00,Surprise,"Sun Health, The Colonnade"
+217,2020-10-15 00:00:00,Phoenix,Roosevelt School District #66
+218,2020-10-15 00:00:00,Phoenix,"Fit Kids, Inc. dba Champion Schools"
+219,2020-10-15 00:00:00,Phoenix,Ohana Developmental Homes
+220,2020-10-15 00:00:00,Phoenix,Reid Traditional Charter Schools
+221,2020-10-15 00:00:00,Phoenix,Phoenix Hebrew Academy
+222,2020-10-15 00:00:00,Phoenix,Office of Vital Records
+223,2020-10-14 00:00:00,Chandler,Sun Valley Pediatric and Family Urgent Care
+224,2020-10-14 00:00:00,Sun City West,Grandview Health and Rehab
+225,2020-10-14 00:00:00,Maricopa,Mobile Elementary School District
+226,2020-10-14 00:00:00,Peoria,Happy Valley School
+227,2020-10-14 00:00:00,Pheonix,Blueprint Education
+228,2020-10-14 00:00:00,Peoria,Basis Peoria
+229,2020-10-14 00:00:00,Phoenix,Allegiant of Phoenix
+230,2020-10-14 00:00:00,Phoenix,Basis Ahwatukee
+231,2020-10-14 00:00:00,Phoenix,Haven of Phoenix
+232,2020-10-14 00:00:00,Scottsdale,Noah Webster
+233,2020-10-14 00:00:00,Tempe,Grace Christian Academy
+234,2020-10-13 00:00:00,Mesa,Alta Mesa Health and Rehabilitation
+235,2020-10-13 00:00:00,Phoenix,Hacienda Healthcare
+236,2020-10-13 00:00:00,Glendale,Providence Place at Glencroft
+237,2020-10-13 00:00:00,Chandler,Copper Creek Inn
+238,2020-10-13 00:00:00,Paradise Valley,Southwellness
+239,2020-10-12 00:00:00,Guadalupe,Tempe Union
+240,2020-10-12 00:00:00,phoenix,dental sealant program
+241,2020-10-12 00:00:00,Phoenix,Phoenix Union High School District
+242,2020-10-09 00:00:00,Surprise,Paradise Honors Schools
+243,2020-10-09 00:00:00,phoenix,isolation hotels
+244,2020-10-08 00:00:00,Scottsdale,Pueblo Norte
+245,2020-10-08 00:00:00,Surprise,Destiny Springs Healthcare
+246,2020-10-08 00:00:00,Mesa,Southwest Key Programs- Casa Kokopelli
+247,2020-10-08 00:00:00,Glendale,Majestic Villa Assisted Living
+248,2020-10-08 00:00:00,Glendale,Villa Hermosa Assisted Living
+249,2020-10-08 00:00:00,Mesa,Las Palmas 924
+250,2020-10-08 00:00:00,Goodyear,Homewatch Caregivers of Goodyear 
+251,2020-10-08 00:00:00,Phoenix,Inspire Kids Montessori
+253,2020-10-08 00:00:00,Scottsdale,Osborn Health and Rehab
+254,2020-10-07 00:00:00,Litchfield Park,Sun Health La Loma Health and Rehabilitation Center
+255,2020-10-06 00:00:00,Glendale,Glendale Elementary School District #40
+256,2020-10-06 00:00:00,Phoenix,Pioneer Preparatory School
+257,2020-10-06 00:00:00,Phoenix,Phoenix Hebrew Academy
+258,2020-10-06 00:00:00,Phoenix,The Arizona Center for the Blind and the Visually Impaired
+259,2020-10-06 00:00:00,Phoenix,ASU Preparatory Academy
+260,2020-10-06 00:00:00,litchfield park,wigwam creek school
+261,2020-10-06 00:00:00,Phoenix,Angela's Home Care
+262,2020-10-06 00:00:00,Scottsdale,Heritage court Post Acute of Scottsdale
+263,2020-10-06 00:00:00,Phoenix,Blueprint Education
+264,2020-10-06 00:00:00,Chandler,Basis Chandler Primary South 
+265,2020-10-05 00:00:00,Glendale,Our Home Adult Care
+266,2020-10-05 00:00:00,Phoenix,Town of Guadalupe
+267,2020-10-05 00:00:00,Glendale,Washington Elementary School District
+268,2020-10-05 00:00:00,Buckeye,Buckeye Elementary School District
+269,2020-10-05 00:00:00,Glendale,Adela Lupea
+270,2020-10-05 00:00:00,Goodyear,Incito Schools
+271,2020-10-05 00:00:00,Chandler,BAART Behavioral Health Services
+272,2020-10-05 00:00:00,Phoenix,BASIS Ahwatukee
+273,2020-10-05 00:00:00,Phoenix,The Opportunity Tree
+274,2020-10-05 00:00:00,Phoenix,Deer Valley Unified School District
+275,2020-10-05 00:00:00,Phoenix,Ebony House Elba House
+276,2020-10-05 00:00:00,Glendale,Daisy Miller Adult Care
+277,2020-10-02 00:00:00,Laveen,Laveen Elementary School District
+278,2020-10-02 00:00:00,Chandler,Basis Chandler Primary North
+279,2020-10-02 00:00:00,Buckeye,Liberty Elementary School District
+280,2020-10-02 00:00:00,Gilbert,Gilbert Public Schools
+281,2020-10-02 00:00:00,Mesa,"New Hope Behavioral Health Center, Inc."
+282,2020-10-02 00:00:00,Phoenix,Circle the City
+283,2020-10-02 00:00:00,Phoenix,"Twenty First Century Charter Schools, Inc."
+284,2020-10-02 00:00:00,Phoenix,Hacienda Healthcare
+285,2020-10-02 00:00:00,Scottsdale,Auberge at Scottsdale
+286,2020-10-02 00:00:00,Phoenix,Ascend Behavioral Health and Wellness
+287,2020-10-02 00:00:00,Gilbert,Mel's AFC
+288,2020-10-01 00:00:00,Glendale,Glendale Elementary School District
+289,2020-10-01 00:00:00,Surprise,The Colonnade
+290,2020-10-01 00:00:00,Sun City,Granview Terrace Health and Rehab
+291,2020-10-01 00:00:00,Sun City West,Arizona Fire and Medical Authority
+292,2020-10-01 00:00:00,Glendale,Tolleson Union High School
+293,2020-10-01 00:00:00,Chandler,Desert Jewish Academy
+294,2020-10-01 00:00:00,Phoenix,"Crossroads, Inc."
+295,2020-10-01 00:00:00,Phoenix,"Arizona Behavioral Counseling and Education, Inc."
+296,2020-10-01 00:00:00,Peoria,Rio Vista Post Acute
+297,2020-10-01 00:00:00,Mesa,Southwest Key Program
+298,2020-10-01 00:00:00,Mesa,Sage Counseling
+299,2020-10-01 00:00:00,Tempe,The Center for Behavioral Health - Tempe
+300,2020-09-30 00:00:00,Surprise,AZ Tender Loving Care Home
+301,2020-09-30 00:00:00,Phoenix,AZ Women's Recovery Center
+302,2020-09-30 00:00:00,Scottsdale,SMC Recovery
+303,2020-09-30 00:00:00,Scottsdale,Scottsdale Recovery Center
+304,2020-09-30 00:00:00,Glendale,Glendale Elementary School District #40
+305,2020-09-30 00:00:00,Tempe,Getz Elementary School
+306,2020-09-29 00:00:00,Phoenix,"Christian Care Nursing Center, Inc."
+307,2020-09-29 00:00:00,Phoenix,Allegiant Health Care
+308,2020-09-29 00:00:00,Phoenix,Aster Manor Adult Foster Care
+309,2020-09-29 00:00:00,Phoenix,AZ Knowledge Empowerment & Advocacy Group
+310,2020-09-29 00:00:00,Avondale,La Loma Internal Medicine and Pediatrics
+311,2020-09-28 00:00:00,Phoenix,Southwest Key Organization - Casa Fortaleza
+312,2020-09-28 00:00:00,Maricopa,Mobile Elementary School
+313,2020-09-28 00:00:00,Phoenix,OVR
+314,2020-09-28 00:00:00,Peoria,Immanuel Campus of Care
+315,2020-09-28 00:00:00,Phoenix,Prime Hospice
+316,2020-09-28 00:00:00,Scottsdale,AZNHA
+317,2020-09-28 00:00:00,Sun City West,SunWest Choice Healthcare
+318,2020-09-28 00:00:00,Phoenix,United Way-Tool Bank
+319,2020-09-25 00:00:00,Glendale,Glendale Elementary School District
+320,2020-09-24 00:00:00,Phoenix,Sierra Linda High School
+321,2020-09-24 00:00:00,Phoenix,Lily of the Valley
+322,2020-09-24 00:00:00,Mesa,"KPC Promise Hospital of Phornix, LLC"
+323,2020-09-24 00:00:00,Mesa,mi casa nursing 
+324,2020-09-24 00:00:00,Avondale,Tolleson Union High School
+325,2020-09-23 00:00:00,Phoenix,Phoenix Elementary School District
+326,2020-09-23 00:00:00,Scottsdale,Sante of Scottsdale
+327,2020-09-23 00:00:00,Surprise,Sante of Surprise
+328,2020-09-23 00:00:00,Mesa,Mesa Christian Care
+329,2020-09-23 00:00:00,Avondale,District 5
+330,2020-09-23 00:00:00,Tempe,Friendship Village
+331,2020-09-23 00:00:00,Phoenix,"Wellsprings of Phoenix, LLC"
+332,2020-09-23 00:00:00,Gilbert,Wellsprings of Gilbert
+333,2020-09-22 00:00:00,Peoria,AIBT
+334,2020-09-22 00:00:00,Mesa,Arbor Rose Senior Care
+335,2020-09-22 00:00:00,Phoenix,Ripple PHX
+336,2020-09-21 00:00:00,Gilbert,The Center At Valvista
+337,2020-09-18 00:00:00,Goodyear,New Vision Behavioral Health & Wellness
+338,2020-09-18 00:00:00,Mesa,Allegiant of Mesa
+339,2020-09-17 00:00:00,Phoenix,Arcadia High School
+340,2020-09-15 00:00:00,Phoenix,Ohana Developmental Homes
+341,2020-09-15 00:00:00,Gilbert,San Tan Montessori
+342,2020-09-15 00:00:00,Phoenix,Pendergast Elementary School District
+343,2020-09-15 00:00:00,Laveen,Country Gardens Charter Schools
+344,2020-09-15 00:00:00,Phoenix,Fowler Elementary School District
+345,2020-09-15 00:00:00,Phoenic,Arizona Knowledge Empowerment
+346,2020-09-14 00:00:00,Phoenix,serosurvey project
+347,2020-09-14 00:00:00,Phoenix,serosurvey project
+348,2020-09-14 00:00:00,Glendale,Center at Arrowhead
+349,2020-09-14 00:00:00,Tempe,Tempe Post Acute
+350,2020-09-14 00:00:00,Tempe,Kyrene School District
+351,2020-09-11 00:00:00,Phoenix,Maricopa County Department of Public Health
+352,2020-09-11 00:00:00,Phoenix,Native Health
+353,2020-09-11 00:00:00,Mesa,Arbor Rose Senior Care
+354,2020-09-11 00:00:00,Gilbert,Christ Greenfield Lutheran
+355,2020-09-10 00:00:00,Scottsdale,Active Care Home LLC
+356,2020-09-10 00:00:00,Mesa,Pilgrim Lutheran
+357,2020-09-10 00:00:00,Glendale,Canyon Elementary
+358,2020-09-10 00:00:00,Mesa,Noble Hospice and Palliative Care
+359,2020-09-10 00:00:00,Phoenix,Native Health
+360,2020-09-10 00:00:00,Phoenix,Allegiant Phoenix
+361,2020-09-09 00:00:00,chandler,momdoc
+362,2020-09-09 00:00:00,Scottsdale,Scottsdale Village Square
+363,2020-09-09 00:00:00,Phoenix,Hummingbird Gardens
+364,2020-09-09 00:00:00,Phoenix,Pacifica Senior Living at Paradise Valley
+365,2020-09-09 00:00:00,Mesa,Step Up Schools
+366,2020-09-09 00:00:00,Phoenix,ACCEL
+368,2020-09-09 00:00:00,Tempe,Dayspring Kindergarten
+369,2020-09-09 00:00:00,Tolleson,TESD #17
+370,2020-09-09 00:00:00,Surprise,Paradise Honors Schools
+371,2020-09-09 00:00:00,Phoenix,Isaac School District
+372,2020-09-08 00:00:00,Litchfield Park,F&C Home Care Services
+373,2020-09-08 00:00:00,Mesa,Desert Blossom Health & Rehab
+374,2020-09-08 00:00:00,Phoenix,Hacienda Healthcare
+375,2020-09-08 00:00:00,Tolleson,Union Elementary School District
+376,2020-09-04 00:00:00,Tempe,Tempe Elementary District
+377,2020-09-04 00:00:00,Phoenix,Awakening Seed School
+378,2020-09-04 00:00:00,Phoenix,Deer Valley Unified School District
+379,2020-09-03 00:00:00,buckeye,painted desert montessori
+380,2020-09-03 00:00:00,phoenix,emmaus lutheran
+381,2020-09-03 00:00:00,Gilbert,"San Tan Montessori School, Inc."
+382,2020-09-03 00:00:00,Phoenix,All Aboard Charter School
+383,2020-09-03 00:00:00,Phoenix,Metropolitan Arts Institute
+384,2020-09-03 00:00:00,Phoenix,ACCLAIM Charter
+385,2020-09-03 00:00:00,palo verde,Palo Verde 49
+386,2020-09-03 00:00:00,Glendale,Ethos Academy
+387,2020-09-03 00:00:00,tonopah,Saddle Mountain Unified School District
+388,2020-09-03 00:00:00,Phoenix,Maricopa County Reception
+389,2020-09-03 00:00:00,glendale,kachina elementary
+390,2020-09-03 00:00:00,laveen,laveen elementary school district
+391,2020-09-03 00:00:00,Phoenix,Valleylife
+392,2020-09-03 00:00:00,surprise,Imagine Schools Rosefield
+393,2020-09-03 00:00:00,Phoenix,Lookout Mountain ALH
+394,2020-09-03 00:00:00,Peoria,Majestic Villa
+395,2020-09-02 00:00:00,tempe,desert choice schools
+396,2020-09-02 00:00:00,Town of Guadalupe,Town of Guadalupe
+397,2020-09-02 00:00:00,Scottsdale,Heritage Court Post Acute of Scottsdale
+398,2020-09-02 00:00:00,buckeye,painted desert montessori
+399,2020-09-02 00:00:00,Mesa,Citadel Post Acute
+400,2020-09-01 00:00:00,Gilbert,Mary Grace Care Home LLC
+401,2020-09-01 00:00:00,Phoenix,A Challenge Foundation Academy
+402,2020-09-01 00:00:00,Surprise,Rock Creek
+403,2020-09-01 00:00:00,Phoenix,Desert Terrace
+404,2020-09-01 00:00:00,Mesa,Alta Mesa Health and Rehabilitation
+405,2020-09-01 00:00:00,Phoenix,Phoenix Mountain Post Acute
+406,2020-08-31 00:00:00,Scottsdale,North Ranch Assisted Living
+407,2020-08-31 00:00:00,Scottsdale,Golden Heritage
+408,2020-08-31 00:00:00,phoenix,"International commerce, Humanities and Sciences Schools"
+409,2020-08-31 00:00:00,gilbert,Bella Montessori
+410,2020-08-28 00:00:00,Phoenix,Best Care Homes of Moon Valley
+411,2020-08-28 00:00:00,Mesa,Allegiant Springdale Village
+412,2020-08-28 00:00:00,Phoenix,Lookout Mountian ALH
+413,2020-08-28 00:00:00,Phoenix,Twenty First Century Charter School
+414,2020-08-28 00:00:00,Phoenix,Saints Simon and Jude School
+415,2020-08-28 00:00:00,Phoenix,Desert Ridge TBI & Behavioral Care
+416,2020-08-28 00:00:00,Phoenix,Diocese of Phoenix Catholic Schools Office
+417,2020-08-28 00:00:00,Mesa,New Horizons
+418,2020-08-27 00:00:00,Phoenix,Christian Care Center
+419,2020-08-27 00:00:00,Phoenix, Cesar Chavez Foundation
+420,2020-08-27 00:00:00,Scottsdale,Aquila Dental Design
+421,2020-08-27 00:00:00,Surprise,Success School
+422,2020-08-27 00:00:00,Peoria,Candeo Schools
+423,2020-08-27 00:00:00,Tempe,Tempe Elementary District #3
+424,2020-08-27 00:00:00,Tempe,Integrity Education Incorporated
+425,2020-08-27 00:00:00,Tempe,AZ Aspire Academy
+426,2020-08-27 00:00:00,Phoenix,Florence Crittenton of AZ
+427,2020-08-27 00:00:00,Phoenix,Hawthorn Court at Ahwatukee
+428,2020-08-26 00:00:00,Scottsdale,Aquila Dental Design
+429,2020-08-26 00:00:00,phoenix,arizona lutheran academy
+430,2020-08-26 00:00:00,Sun City,Bethany Assisted Living
+431,2020-08-26 00:00:00,Phoenix,Creighton School District
+432,2020-08-26 00:00:00,Phoenix,MCDPH Bldg #4041
+433,2020-08-25 00:00:00,Phoenix,Allegiant Phoenix
+434,2020-08-25 00:00:00,scottsdale,International school of arizona
+435,2020-08-25 00:00:00,fountain hills,fountain hills unified school district
+436,2020-08-25 00:00:00,tempe,Az Aspire academy
+437,2020-08-25 00:00:00,Phoenix,Mercy Care
+438,2020-08-25 00:00:00,Peoria,Spirit of Hope School
+439,2020-08-25 00:00:00,Phoenix,Painted Rock Academy
+440,2020-08-25 00:00:00,Phoenix,Shearim Torah School
+441,2020-08-25 00:00:00,Phoenix,hi star center school
+442,2020-08-25 00:00:00,Phoenix,academia del pueblo
+443,2020-08-25 00:00:00,Goodyear,New Vision
+444,2020-08-25 00:00:00,Mesa,Copper Village Assisted Living
+445,2020-08-24 00:00:00,Chandler,Copper Creek Inn
+446,2020-08-24 00:00:00,Avondale,Genesis Estrella Center
+447,2020-08-24 00:00:00,Phoenix,Hacienda Healthcare
+448,2020-08-24 00:00:00,Phoenix,A Place All My Own
+449,2020-08-24 00:00:00,Scottsdale,Aquila Dental Design
+450,2020-08-24 00:00:00,Phoenix,CSRV Consulting
+451,2020-08-21 00:00:00,Mesa,Silver Creek Inn
+452,2020-08-21 00:00:00,peoria,Pathway to Hope
+453,2020-08-20 00:00:00,Scottsdale,"Aberdeen Home, LLC"
+454,2020-08-20 00:00:00,Chandler,Parkland Memory Care
+455,2020-08-20 00:00:00,scottsdale,Golden Heritage
+456,2020-08-20 00:00:00,Goodyear,The Reveille Foundation
+457,2020-08-20 00:00:00,Phoenix,Christian Care
+458,2020-08-19 00:00:00,Phoenix,Destiny Sober Living
+459,2020-08-19 00:00:00,Tempe ,ASU Serosurvey 
+460,2020-08-19 00:00:00,Missing,Missing
+461,2020-08-19 00:00:00,scottsdale,springs of scottsdale
+462,2020-08-19 00:00:00,Sun City West,Sun West Choice
+463,2020-08-18 00:00:00,Chandler,Copper Creek Inn
+464,2020-08-18 00:00:00,Phoenix,Phoenix Rise Project Community Bridges
+465,2020-08-18 00:00:00,Mesa,Allegiant Healthcare
+466,2020-08-17 00:00:00,Mesa,Arbor Rose Senior Care
+467,2020-08-17 00:00:00,Phoenix ,Human Services 
+468,2020-08-17 00:00:00,Phoenix ,Mariposa Point Algodon
+469,2020-08-17 00:00:00,Phoenix ,Dr. Urvi 
+470,2020-08-17 00:00:00,Phoenix ,Hacienda Healthcare
+471,2020-08-17 00:00:00,chandler,Archstone
+472,2020-08-17 00:00:00,Chandler,Copper Creek Inn
+473,2020-08-17 00:00:00,Phoenix,Amber Hills Assisted Living
+474,2020-08-14 00:00:00,Glendale,Brookdale Arrowhead
+475,2020-08-15 00:00:00,Tempe,Apache ASL Trails 
+476,2020-08-13 00:00:00,Peoria,The Austin Centers for Exceptional Students
+477,2020-08-13 00:00:00,phoenix,Bridgewater Assisted living
+478,2020-08-13 00:00:00,Gilbert,Eternal Spring of Gilbert
+479,2020-08-13 00:00:00,Chandler,Chandler Post Acute and Rehab
+480,2020-08-13 00:00:00,phoenix,southwest behavioral
+481,2020-08-13 00:00:00,Phoenix,Chicanos Por La Causa Community Center
+482,2020-08-13 00:00:00,Sun City,Bethany Assisted Living
+483,2020-08-12 00:00:00,phoenix,CASS Vista Colina
+484,2020-08-12 00:00:00,peoria,Happy Valley School
+485,2020-08-12 00:00:00,phoenix,Community Bridges
+486,2020-08-12 00:00:00,phoenix,native american connections
+487,2020-08-11 00:00:00,Litchfield Park,F&C Home Care Services
+488,2020-08-11 00:00:00,Phoenix,Pacifica Senior Living Paradise Valley
+489,2020-08-11 00:00:00,Phoenix,Imagine Charter Schools PPE Starter
+490,2020-08-11 00:00:00,Missing,Missing
+491,2020-08-11 00:00:00,Missing,Missing
+492,2020-08-11 00:00:00,Missing,Missing
+493,2020-08-11 00:00:00,Missing,Missing
+494,2020-08-10 00:00:00,Mesa,Montecito Post Acute
+495,2020-08-10 00:00:00,Phoenix,Life Care Center at Paradise Valley
+496,2020-08-10 00:00:00,Phoenix,"Creative Innervisions, LLC"
+497,2020-08-10 00:00:00,Peoria,Majestic Villa Assisted Living
+498,2020-08-10 00:00:00,scottsdale,Shea post acute
+499,2020-08-10 00:00:00,Scottsdale,Miramonte
+500,2020-08-10 00:00:00,Phoenix,South Mountain Post Acute
+501,2020-08-07 00:00:00,Mesa,Noble Hospice
+502,2020-08-07 00:00:00,Aguila,Aguila Elementary School
+503,2020-08-07 00:00:00,Wittman,Nadaburg Unified School District
+504,2020-08-07 00:00:00,Mesa,Mission Palms
+505,2020-08-06 00:00:00,Tempe,LivGenerations Pinnacle Peak
+506,2020-08-06 00:00:00,Chandler,Hacienda Healthcare
+507,2020-08-06 00:00:00,Phoenix,Premier High School
+508,2020-08-06 00:00:00,Mesa,Montecito Post Acute
+509,2020-08-05 00:00:00,Mesa,Silver Creek Inn
+510,2020-08-05 00:00:00,Peoria,Cross of Glory Lutheran School
+511,2020-08-04 00:00:00,Phoenix,Allegiant Phoenix
+512,2020-08-04 00:00:00,Phoenix,Maricopa Unified Command
+513,2020-08-04 00:00:00,Phoenix,Maricopa Unified Command
+514,2020-08-04 00:00:00,Tonopah,Saddle Mountain Unified Schools
+515,2020-08-04 00:00:00,Surpise,Destiny Springs Healthcare
+516,2020-08-04 00:00:00,buckeye,Buckeye Union High School District
+517,2020-08-04 00:00:00,Peoria,Jane's Place/Glynnis Place/Heaven on Earth
+518,2020-08-04 00:00:00,Wickenburg,Wickenburg Unified School District
+519,2020-08-03 00:00:00,Phoenix,Umom Earll
+520,2020-08-03 00:00:00,Mesa,Arbor Rose Senior Care
+521,2020-08-03 00:00:00,Phoenix,Prime Hospice
+522,2020-08-03 00:00:00,Phoenix,Arizona Housing Inc.
+523,2020-07-31 00:00:00,Mesa,Desert Blossom Health and Rehab
+524,2020-07-31 00:00:00,Phoenix,Hacienda Healthcare
+525,2020-07-31 00:00:00,Tempe,Tempe Post Acute
+526,2020-07-31 00:00:00,Mesa,Copper Village Assisted Living
+527,2020-07-31 00:00:00,Scottsdale,Auberge Scottsdale
+528,2020-07-31 00:00:00,peoria,auberge peoria
+529,2020-07-30 00:00:00,Scottsdale,Heritage Court Post Acute of Scottsdale
+530,2020-07-30 00:00:00,Phoenix,"Lura Turner Homes, Inc."
+531,2020-07-30 00:00:00,Glendale,Anodyne Independent Living
+532,2020-07-30 00:00:00,Anthem,Enclave at Anthem
+533,2020-07-30 00:00:00,Chandler,Gardens at Ocotillo
+534,2020-07-30 00:00:00,Phoenix,Creative Innervisions
+535,2020-07-30 00:00:00,Peoria,Cross of Glory Lutheran School
+536,2020-07-30 00:00:00,Guadalupe,Town of Guadalupe 
+537,2020-07-30 00:00:00,Tolleson,Tolleson Fire
+538,2020-07-30 00:00:00,Avondale,Genesis Estrella Center
+539,2020-07-29 00:00:00,Scottsdale,Maravilla Scottsdale
+540,2020-07-29 00:00:00,Mesa,Mountain Vista 
+541,2020-07-29 00:00:00,Mesa,"Zion Compassion Care, LLC Admin"
+542,2020-07-29 00:00:00,Scottsdale,Plaza Healthcare
+543,2020-07-29 00:00:00,Phoenix,Valleylife
+544,2020-07-28 00:00:00,Chandler,Copper Creek Inn
+545,2020-07-28 00:00:00,Phoenix ,Circle city
+546,2020-07-28 00:00:00,Mesa,Allegiant Springdale Village
+547,2020-07-28 00:00:00,Scottsdale,Osborn Health and Rehabilitation
+548,2020-07-28 00:00:00,Phoenix ,Desert Ridge Manor TBI & Behavioral Care
+549,2020-07-27 00:00:00,Mesa,Silver Creek Inn
+550,2020-07-27 00:00:00,Phoenix,Rose Court Assisted Living
+551,2020-07-27 00:00:00,Chandler,Parkland Memory Care
+552,2020-07-27 00:00:00,Avondale,Legacy House Avondale
+553,2020-07-27 00:00:00,Chandler,Advanced Internal Medicine PC
+554,2020-07-27 00:00:00,Phoenix,Hacienda
+555,2020-07-27 00:00:00,Phoenix,Ohana Developmental
+556,2020-07-27 00:00:00,Chandler,Ball Charter Schools
+557,2020-07-24 00:00:00,Peoria,Auberge Peoria
+558,2020-07-24 00:00:00,apache junction,by your side\ kopper crest
+559,2020-07-24 00:00:00,Phoenix,St. Luke's Behavioral Health Center
+560,2020-07-24 00:00:00,Phoenix,Haven of Phoenix
+561,2020-07-24 00:00:00,Phoenix,The Opportunity Tree
+562,2020-07-24 00:00:00,Tempe,Friendship Village
+563,2020-07-24 00:00:00,Phoenix,Florence Crittenton of Arizona
+564,2020-07-24 00:00:00,Scottsdale,Plaza Healthcare
+565,2020-07-23 00:00:00,Tonopah,Crossroads Academy
+566,2020-07-23 00:00:00,Mesa,Montecito Post Acute and Rehabilitation
+567,2020-07-23 00:00:00,Glendale,Terra Pointe Memory Care
+568,2020-07-23 00:00:00,Surprise,Legacy Assisted Living
+569,2020-07-23 00:00:00,Scottsdale,Scottsdale Village Square
+570,2020-07-23 00:00:00,Phoenix,Bethany Ranch Home
+571,2020-07-23 00:00:00,Glendale,Center at Arrowhead
+572,2020-07-23 00:00:00,Guadalupe,Town of Guadalupe
+573,2020-07-23 00:00:00,Phoenix,Maricopa County UCC housing project
+574,2020-07-23 00:00:00,Phoenix,Desert Haven Care Center
+575,2020-07-22 00:00:00,Phoenix,Allegiant of Phoenix
+576,2020-07-22 00:00:00,Surprise,VIP Assisted Living
+577,2020-07-22 00:00:00,Peoria,Immanuel Campus
+578,2020-07-22 00:00:00,Phoenix,Horizon Honors School Starter PPE
+579,2020-07-22 00:00:00,Phoenix,Tolleson Union High School District Starter PPE
+580,2020-07-22 00:00:00,Surprise,Surprise Memory Care
+581,2020-07-22 00:00:00,Phoenix ,Life Care Center of Paradise Valley
+582,2020-07-22 00:00:00,Chandler,Copper Creek Inn
+583,2020-07-21 00:00:00,Scottsdale,Pueblo Norte
+584,2020-07-21 00:00:00,Guadalupe,Town of Guadalupe
+585,2020-07-21 00:00:00,Phoenix,Brighter Way Institute
+586,2020-07-21 00:00:00,Scottsdale,Heritage Court Post Acute of Scottsdale
+587,2020-07-21 00:00:00,Phoenix,Horizon Home Health Hospice
+588,2020-07-21 00:00:00,Phoenix,Avamere at Stratford
+589,2020-07-20 00:00:00,Peoria,Rio Vista Post Acute
+590,2020-07-20 00:00:00,Peoria,Palos Verdes Senior Living
+591,2020-07-20 00:00:00,Avondale,Genesis Estrella Center
+592,2020-07-20 00:00:00,Phoenix,Orion Homes
+593,2020-07-20 00:00:00,Phoenix,Bev's Homes
+594,2020-07-20 00:00:00,Mesa,Embry Women's Health 
+595,2020-07-20 00:00:00,Glendale,Anodyne Independent Living
+596,2020-07-20 00:00:00,Phoenix,"Desert Ridge Manor TBI & Behavioral Care, LLC"
+597,2020-07-20 00:00:00,Phoenix,Reeves Fonudation
+598,2020-07-20 00:00:00,Buckeye,First Family Medicine
+599,2020-07-17 00:00:00,Glendale,Compassion Assisted Living
+600,2020-07-17 00:00:00,Mesa,silver creek inn
+601,2020-07-17 00:00:00,Mesa,Copper Village Assisted Living
+602,2020-07-17 00:00:00,Phoenix,South Mountain Post Acute
+603,2020-07-17 00:00:00,scottsdale,pinnacle peak
+604,2020-07-16 00:00:00,Phoenix,Acacia Health
+605,2020-07-16 00:00:00,Missing,Missing
+606,2020-07-16 00:00:00,Phoenix,The Tungland Corporation
+607,2020-07-16 00:00:00,Phoenix,Hawthorn Court at Ahwatukee
+608,2020-07-16 00:00:00,Phoenix,Villas of Maryvale Terrace
+609,2020-07-16 00:00:00,Phoenix,Acoma Terrace
+610,2020-07-16 00:00:00,Chandler,Parkland Memory Care
+611,2020-07-16 00:00:00,Phoenix,Hacienda Healthcare
+612,2020-07-16 00:00:00,Paradise Valley,Dr. Tyler Southwell
+613,2020-07-15 00:00:00,Mesa,Avista Mesa
+614,2020-07-15 00:00:00,Mesa,Mission Palms Post Acute
+615,2020-07-15 00:00:00,Anthem,Mountain Cove Luxury Senior Care
+616,2020-07-15 00:00:00,Mesa,Arbor Rose Senior Care
+617,2020-07-15 00:00:00,Surprise,Sante of Surprise
+618,2020-07-15 00:00:00,Phoenix,St. Lukes Behavioral Health Center
+619,2020-07-15 00:00:00,Mesa,Horizon Health and Wellness
+620,2020-07-14 00:00:00,Scottsdale,Scottsdale Village Square
+621,2020-07-14 00:00:00,Surpise,Surprise Memory Care 
+622,2020-07-14 00:00:00,Scottsdale,Caring for Loved Ones
+623,2020-07-14 00:00:00,Chandler,Avenir Memory Care
+624,2020-07-14 00:00:00,Mesa,The Citadel Senior Living 
+625,2020-07-14 00:00:00,Mesa,Noble Hospice and Palliative Care
+626,2020-07-14 00:00:00,Phoenix,Brookdale Central Paradise Valley
+627,2020-07-14 00:00:00,Chandler,Copper Creek Inn
+628,2020-07-14 00:00:00,Chandler,Parkland Memory Care
+629,2020-07-14 00:00:00,Mesa,Allegiant Springdale
+630,2020-07-14 00:00:00,Phoenix,Desert Terrace Healthcare Center
+631,2020-07-14 00:00:00,Phoenix,Everlasting Services
+632,2020-07-13 00:00:00,Scottsdale,Auberge at Scottsdale 
+633,2020-07-13 00:00:00,Scottsdale,Pueblo Norte
+634,2020-07-13 00:00:00,Peoria,Orion Homes
+635,2020-07-13 00:00:00,Surprise,Rock Creek
+636,2020-07-13 00:00:00,Phoenix,Terraces of Phoenix
+637,2020-07-13 00:00:00,Phoenix,The Opportunity Tree
+638,2020-07-13 00:00:00,Scottsdale,Sante of North Scottsdale
+639,2020-07-13 00:00:00,Phoenix,G&T Comfort Care
+640,2020-07-13 00:00:00,Scottsdale,Miramonte Alh
+641,2020-07-13 00:00:00,Glendale,Progress Assisted Living
+642,2020-07-13 00:00:00,Phoenix,Hacienda Healthcare
+643,2020-07-13 00:00:00,Fountain Hills,Soni Family Medicine
+644,2020-07-13 00:00:00,Sun Lakes,Rennaisance luxury
+645,2020-07-10 00:00:00,Glendale ,Amarsi Assisted Living 
+646,2020-07-10 00:00:00,Mesa,Summit at Sunland
+647,2020-07-10 00:00:00,Sun City,Woodmark at Sun City
+648,2020-07-10 00:00:00,Gilbert,Enclave at Gilbert
+649,2020-07-10 00:00:00,Scottsdale ,Shea Post Acute
+650,2020-07-10 00:00:00,Phoenix,PT Choice Labs
+651,2020-07-10 00:00:00,Scottsdale,Pueblo Norte
+652,2020-07-10 00:00:00,Phoenix,Allegiance Phoenix
+653,2020-07-10 00:00:00,Phoenix,Florence Crittenton
+654,2020-07-10 00:00:00,Scottsdale,Life Care Center of Scottsdale
+655,2020-07-10 00:00:00,scottsdale,sunrise care homes
+656,2020-07-09 00:00:00,Phoenix,A Place all my Own
+657,2020-07-09 00:00:00,Phoenix,Premier AZ
+658,2020-07-09 00:00:00,Scottsdale ,Adagio House 5
+659,2020-07-09 00:00:00,Peoria ,Rio Vista Post Acute
+660,2020-07-09 00:00:00,Avondale ,Estrella Center
+661,2020-07-09 00:00:00,Glendale ,Amarsi Assisted Living
+662,2020-07-09 00:00:00,Mesa,Express Urgent Care
+663,2020-07-09 00:00:00,Mesa,Jim and Patti Jones
+664,2020-07-09 00:00:00,Surprise ,Destiny springs healthcare
+665,2020-07-09 00:00:00,Scottsdale ,Cactus Villa

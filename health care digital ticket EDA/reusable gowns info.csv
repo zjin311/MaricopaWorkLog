@@ -1,0 +1,38 @@
+,Delivered Date,Facility Name,Facility Type,Item Description,Product Source,Type,Units,QTY Per UOM,Total Amount,size,week_of_year
+1696,2020-05-06,Avenir Memory,Ltcf,reusable gowns,Maricopa,alt. gowns,2.5,20.0,50,universal,18
+1918,2020-05-08,Desert Ridge,Ltcf,reusable gowns medium,Maricopa,alt. gowns,2.5,20.0,50,medium,18
+2031,2020-05-08,Haven of Phoenix ,Ltcf,reusable gowns,Maricopa,alt. gowns,2.5,20.0,50,universal,18
+2066,2020-05-08,Heritage Village Assisted Living ,Ltcf,reusable gowns medium,Maricopa,alt. gowns,2.5,20.0,50,medium,18
+2140,2020-05-08,Horizon Health and Wellness,Ltcf,reusable gowns medium,Maricopa,alt. gowns,1.5,20.0,30,medium,18
+2251,2020-05-11,Palm House,Ltcf,reusable gowns,Maricopa,alt. gowns,0.5,20.0,10,universal,19
+2362,2020-05-08,Rock Creek,Ltcf,gown medium reusable,Maricopa,alt. gowns,2.5,20.0,50,medium,18
+7699,2020-05-15,Heritage Court of Scottsdale,Ltcf,gown medium reusable,Maricopa,gowns,2.5,20.0,50,medium,19
+7772,2020-05-12,Sun West Choice,Ltcf,reusable gowns,Maricopa,gowns,2.5,20.0,50,universal,19
+7837,2020-05-12,Lake Pleasant Post Acute & Rehab,Ltcf,reusable gowns,Maricopa,gowns,2.5,20.0,50,universal,19
+7896,2020-05-12,Integro Health,Private,reusable gowns,Maricopa,gowns,2.5,20.0,50,universal,19
+7926,2020-05-12,Palos Verdes Senior Living,Ltcf,reusable gowns,Maricopa,gowns,1.0,20.0,20,universal,19
+7956,2020-05-12,Sunview Respiratory & Rehab,Ltcf,reusable gowns,Maricopa,gowns,2.5,20.0,50,universal,19
+8016,2020-05-13,Ventana Winds Assisted Living,Ltcf,reusable gowns,Maricopa,gowns,2.5,20.0,50,universal,19
+8046,2020-05-13,Las Fuentes Assisted Living,Ltcf,reusable gowns,Maricopa,gowns,1.8,20.0,36,universal,19
+8088,2020-05-13,Mission Palms,Ltcf,gown medium reusable,Maricopa,gowns,5.0,20.0,100,medium,19
+8120,2020-05-13,Sante of Chandler,Ltcf,reusable gowns,Maricopa,gowns,1.5,20.0,30,universal,19
+8211,2020-05-14,Sarah's Place at Glencroft,Ltcf,gown medium reusable,Maricopa,gowns,5.0,20.0,100,medium,19
+8236,2020-05-14,The Summit at Sunland Springs,Ltcf,reusable gowns,Maricopa,gowns,2.5,20.0,50,universal,19
+8286,2020-05-14,East Valley Hospice,Ltcf,reusable gowns,Maricopa,gowns,0.6,20.0,12,universal,19
+8314,2020-05-14,Glencroft Center for Modern Aging,Ltcf,gown medium reusable,Maricopa,gowns,5.0,20.0,100,medium,19
+8340,2020-05-14,Horizon Health,Ltcf,gown medium reusable,Maricopa,gowns,2.5,20.0,50,medium,19
+8469,2020-05-15,Pheonix Mountain Post Acute,Ltcf,reusable gowns,Maricopa,gowns,1.5,20.0,30,universal,19
+9209,2020-05-19,Desert Haven Care Center,Ltcf,reusable gowns,Maricopa,gowns,80.0,1.0,80,universal,20
+9259,2020-05-19,Renaissance Luxury Senior Living,Ltcf,reusable gowns,Maricopa,gowns,5.0,20.0,100,universal,20
+9334,2020-05-19,Arizona Training & Evaluation Center,Ltcf,reusable gowns,Maricopa,gowns,1.5,20.0,30,universal,20
+9961,2020-05-29,Town of Guadalupe,Ems,gown medium reusable,Maricopa,gowns,3.0,20.0,60,medium,21
+10092,2020-06-02,Maravilla Scottsdale,Ltcf,reusable gown medium,Maricopa,gowns,40.0,1.0,40,medium,22
+10295,2020-06-04,Desert Haven Care Center,Ltcf,"gown, reusable medium",Maricopa,gowns,100.0,1.0,100,medium,22
+10311,2020-06-04,Haven of Phoenix,Ltcf,"gown, reusable, medium",Maricopa,gowns,50.0,1.0,50,medium,22
+10410,2020-06-05,Amber Creek Memory Care Community,Ltcf,"gown, reusable, medium",Maricopa,gowns,100.0,1.0,100,medium,22
+10537,2020-06-09,Advance Health Care of Glendale,Ltcf,"gown, reusable, medium",Maricopa,gowns,50.0,1.0,50,medium,23
+10607,2020-06-10,Advance Health Care of Scottsdale,Ltcf,"gown, reusable, medium",Maricopa,gowns,27.0,1.0,27,medium,23
+10613,2020-06-11,Avista Senior Living Downtown Mesa,Ltcf,"gown, reusable, medium",Maricopa,gowns,200.0,1.0,200,medium,23
+11034,2020-06-25,Town of Guadalupe,Ems,"gown, reusable, medium",Maricopa,gowns,100.0,1.0,100,medium,25
+11063,2020-06-29,"Becky Home Healthcare, LLC",Home healthcare,"gown, reusable, medium",Maricopa,gowns,2.0,30.0,60,medium,26
+11188,2020-06-26,Montecito Post Acute and Rehabilitation,Ltcf,"gown, reusable, medium",Maricopa,gowns,200.0,1.0,200,medium,25
